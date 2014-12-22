@@ -26,9 +26,9 @@ def parse_buzzfeed_item(html_element):
         'url': author_url,
       },
       'article_title': article_title,
-      'url': article_url,
+      'article_url': article_url,
       'response_count': response_count,
-      'clickbait': True,
+      'clickbait': 1,
     }
 
 
@@ -67,7 +67,7 @@ def scrape_buzzfeed_life(pages, start_page=2):
 
 if __name__ == '__main__':
   data = []
-  data.extend(scrape_buzzfeed_life(30, 2))
-  data.extend(scrape_buzzfeed_buzz(30, 2))
-  data.extend(scrape_buzzfeed_news(30, 2))
+  #data.extend(scrape_buzzfeed_life(50, 2))
+  data.extend(scrape_buzzfeed_buzz(100, 2))
+  #data.extend(scrape_buzzfeed_news(30, 2))
   sys.stdout.write(json.dumps(data, indent=2))
