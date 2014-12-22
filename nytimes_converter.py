@@ -12,7 +12,7 @@ def parse_nyt_row(row):
       'article_title': row[2],
       'article_subject': row[3],
       'topic_code': row[4],
-      'clickbait': False,
+      'clickbait': 0,
     }
 
 
@@ -28,5 +28,5 @@ def load_nyt_csv(filename):
 
 
 if __name__ == '__main__':
-  nyt_data = load_nyt_csv('rtexttols-nytimes.csv')
+  nyt_data = load_nyt_csv('rtexttools-nytimes.csv')
   sys.stdout.write(json.dumps(nyt_data, indent=2))
