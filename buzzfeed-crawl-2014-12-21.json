@@ -1,7 +1,7 @@
 [
   {
     "url": "/alisoncaporimo/starbucks-soap", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 308, 
     "article_title": "The Perfect DIY Gift Every Starbucks Addict Will Love", 
     "author": {
@@ -11,7 +11,7 @@
   }, 
   {
     "url": "/alannaokun/expectationsvsreality", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 330, 
     "article_title": "24 Times Expectations Didn't Match Reality In 2014", 
     "author": {
@@ -21,7 +21,7 @@
   }, 
   {
     "url": "/alisoncaporimo/winter-whiskey", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 183, 
     "article_title": "19 Lazy Whiskey Drinks That Are Bae", 
     "author": {
@@ -31,7 +31,7 @@
   }, 
   {
     "url": "/juliegerstein/21-beards-that-have-totally-stepped-up-their-holiday-game", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 109, 
     "article_title": "21 Beards That Know The True Meaning Of Christmas", 
     "author": {
@@ -41,7 +41,7 @@
   }, 
   {
     "url": "/mallorymcinnis/books-are-the-best-gift", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 200, 
     "article_title": "47 Incredibly Unique Books To Buy Everyone On Your List", 
     "author": {
@@ -51,7 +51,7 @@
   }, 
   {
     "url": "/morganshanahan/this-video-of-an-alzheimers-patient-recognizing-her-favorite", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 168, 
     "article_title": "This Alzheimer's Patient Recognizing Her Favorite Hymns Will Warm Your Heart", 
     "author": {
@@ -61,7 +61,7 @@
   }, 
   {
     "url": "/adamdavis/give-me-granite-or-give-me-death", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 419, 
     "article_title": "The Definitive Ranking Of Annoying Things People Say On \"House Hunters\"", 
     "author": {
@@ -71,7 +71,7 @@
   }, 
   {
     "url": "/rachelysanders/maybe-next-year", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 971, 
     "article_title": "31 Foods That Failed So Hard They Almost Won In 2014", 
     "author": {
@@ -81,7 +81,7 @@
   }, 
   {
     "url": "/rachelwmiller/ho-ho-no", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 45, 
     "article_title": "21 Drunk Santas Who Will Ruin Your Childhood", 
     "author": {
@@ -91,7 +91,7 @@
   }, 
   {
     "url": "/mackenziekruvant/food-instagram-accounts", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 159, 
     "article_title": "18 Instagram Accounts You Should Follow In 2015 If You Love Food", 
     "author": {
@@ -101,7 +101,7 @@
   }, 
   {
     "url": "/alessiasantoro/get-that-brain-juice-flowing", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 157, 
     "article_title": "23 Smart Gifts That Will Make Everyone On Your List A Genius", 
     "author": {
@@ -111,7 +111,7 @@
   }, 
   {
     "url": "/mikespohr/the-elf-on-a-shelf-hack-you-need-to-go-out-on-top-this-chris", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 57, 
     "article_title": "This Elf On A Shelf Hack Will Make Your Christmas So Much Easier", 
     "author": {
@@ -121,7 +121,7 @@
   }, 
   {
     "url": "/juliegerstein/this-makeup-artist-creates-the-most-insane-beauty-transforma", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 774, 
     "article_title": "This Makeup Artist's Celebrity Impressions Are Totally Spot-On", 
     "author": {
@@ -131,7 +131,7 @@
   }, 
   {
     "url": "/alisoncaporimo/office-party-drinking-game", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 47, 
     "article_title": "Here Is The Most Epic Office Party Drinking Game", 
     "author": {
@@ -141,7 +141,7 @@
   }, 
   {
     "url": "/alessiasantoro/run-derby-run", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 597, 
     "article_title": "This Incredible Dog Has A New Lease On Life Thanks To 3D Printing", 
     "author": {
@@ -151,7 +151,7 @@
   }, 
   {
     "url": "/juliegerstein/33-photos-of-people-who-rocked-incredible-onesies-for-world", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 64, 
     "article_title": "33 Inspiring Photos Of People Celebrating World Onesie Day", 
     "author": {
@@ -161,7 +161,7 @@
   }, 
   {
     "url": "/alannaokun/clear-liquor-is-for-rich-women-on-diets", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 447, 
     "article_title": "17 Times Ron Swanson Perfectly Summed Up Your Relationship With Food", 
     "author": {
@@ -171,7 +171,7 @@
   }, 
   {
     "url": "/taylorsimone/reasons-we-are-still-taking-fashion-cues-from-rihanna", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 226, 
     "article_title": "15 Reasons We're Still Taking Fashion Cues From Rihanna", 
     "author": {
@@ -181,7 +181,7 @@
   }, 
   {
     "url": "/christinebyrne/have-your-bacon-and-wear-it-too", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 71, 
     "article_title": "You Can Wear Spaghetti Carbonara As A Necklace Now", 
     "author": {
@@ -191,7 +191,7 @@
   }, 
   {
     "url": "/mikespohr/signs-you-used-to-be-a-teacher", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 74, 
     "article_title": "23 Signs You Used To Be A Teacher", 
     "author": {
@@ -201,7 +201,7 @@
   }, 
   {
     "url": "/juliegerstein/this-pop-singers-prosthetic-limbs-are-unbelievable-works-of", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 412, 
     "article_title": "This Pop Star's Prosthetic Limbs Are Unbelievably Cool", 
     "author": {
@@ -211,7 +211,7 @@
   }, 
   {
     "url": "/leonoraepstein/most-important-hair-moments-of-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 145, 
     "article_title": "The 27 Most Important Hair Moments Of 2014", 
     "author": {
@@ -221,7 +221,7 @@
   }, 
   {
     "url": "/ryancreed/martha-stewart-finally-stopped-taking-gross-photos", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 127, 
     "article_title": "Martha Stewart Finally Stopped Taking Gross Photos", 
     "author": {
@@ -231,7 +231,7 @@
   }, 
   {
     "url": "/mackenziekruvant/breakfast-sandwiches", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 243, 
     "article_title": "17 Delicious Breakfast Sandwiches Worth Waking Up For", 
     "author": {
@@ -241,7 +241,7 @@
   }, 
   {
     "url": "/mallorymcinnis/best-picture-books-of-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 112, 
     "article_title": "The 23 Best Picture Books Of 2014", 
     "author": {
@@ -251,7 +251,7 @@
   }, 
   {
     "url": "/sarahjampel/cool-cakes", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 259, 
     "article_title": "15 Unusual Cakes You Need To Make Right Now", 
     "author": {
@@ -261,7 +261,7 @@
   }, 
   {
     "url": "/kollabora/kids-holiday-crafts", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 147, 
     "article_title": "10 Insanely Fun Holiday Projects To Make With Kids", 
     "author": {
@@ -271,7 +271,7 @@
   }, 
   {
     "url": "/rachelwmiller/all-we-do-is-pin", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2749, 
     "article_title": "What Happened When I Lived According To The Pinterest Popular Page", 
     "author": {
@@ -281,7 +281,7 @@
   }, 
   {
     "url": "/jessicaprobus/these-unique-henna-crowns-are-helping-cancer-patie", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 453, 
     "article_title": "These Inspiring Henna Crowns Are Helping Cancer Patients Feel Beautiful", 
     "author": {
@@ -291,7 +291,7 @@
   }, 
   {
     "url": "/sallytamarkin/i-cant-believe-i-got-out-of-bed-for-this", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 46, 
     "article_title": "How Getting In Shape Is Like Joining OkCupid", 
     "author": {
@@ -301,7 +301,7 @@
   }, 
   {
     "url": "/christinebyrne/crescent-roll-me-away", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 619, 
     "article_title": "29 Incredibly Easy Things You Can Make With Crescent Roll Dough", 
     "author": {
@@ -311,7 +311,7 @@
   }, 
   {
     "url": "/rachelwmiller/brilliant-ikea-hacks-all-parents-should-know", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 343, 
     "article_title": "31 Brilliant Ikea Hacks Every Parent Should Know", 
     "author": {
@@ -321,7 +321,7 @@
   }, 
   {
     "url": "/juliegerstein/35-times-the-midriff-was-the-mvp-of-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 92, 
     "article_title": "35 Photos that Prove Midriffs Totally Killed It In 2014", 
     "author": {
@@ -331,7 +331,7 @@
   }, 
   {
     "url": "/christinebyrne/jacques-torres-hot-chocolate", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1219, 
     "article_title": "How To Make The World's Best Hot Chocolate", 
     "author": {
@@ -341,7 +341,7 @@
   }, 
   {
     "url": "/alessiasantoro/reduce-reuse-recycle-that-wrapping-paper", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 363, 
     "article_title": "19 Clever Ways To Use Leftover Wrapping Paper", 
     "author": {
@@ -351,7 +351,7 @@
   }, 
   {
     "url": "/morganshanahan/ideas-for-kids-artwork-you-might-actually-want-to-hang", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 389, 
     "article_title": "27 Ideas For Kids Artwork You Might Actually Want To Hang", 
     "author": {
@@ -361,7 +361,7 @@
   }, 
   {
     "url": "/juliegerstein/wedding-ring-tattoo-ideas", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 726, 
     "article_title": "33 Impossibly Sweet Wedding Ring Tattoo Ideas You'll Want To Say \"I Do\" To", 
     "author": {
@@ -371,7 +371,7 @@
   }, 
   {
     "url": "/melissaharrison/boozy-breakfast-recipes", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 187, 
     "article_title": "19 Boozy Breakfast Treats That Are Worth Waking Up For", 
     "author": {
@@ -381,7 +381,7 @@
   }, 
   {
     "url": "/alannaokun/luxurious-gifts-youll-want-to-keep-for-yourself", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 490, 
     "article_title": "21 Products That Will Let Everyone Know You've Made It In Life", 
     "author": {
@@ -391,7 +391,7 @@
   }, 
   {
     "url": "/melissaharrison/par-tay-of-the-year", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 684, 
     "article_title": "Here's What Taylor Swift's Birthday Party Looked Like", 
     "author": {
@@ -401,7 +401,7 @@
   }, 
   {
     "url": "/jessicaprobus/weedtasticgiftsforthediscreetstonerinyourlife", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 866, 
     "article_title": "24 Gifts For The Secret Stoner You Know", 
     "author": {
@@ -411,7 +411,7 @@
   }, 
   {
     "url": "/melissaharrison/petite-style-tips", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 903, 
     "article_title": "17 Super Useful Styling Tips For Women Under 5'4", 
     "author": {
@@ -421,7 +421,7 @@
   }, 
   {
     "url": "/rachelwmiller/how-to-create-a-holiday-photo-book-that-your-family-will-tre", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 87, 
     "article_title": "Here's What You Should Make Your Family This Christmas", 
     "author": {
@@ -431,7 +431,7 @@
   }, 
   {
     "url": "/rachelysanders/altkes", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 313, 
     "article_title": "21 Next-Level Latkes You Need To Try", 
     "author": {
@@ -441,7 +441,7 @@
   }, 
   {
     "url": "/carolynkylstra/nipple-factoids", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 175, 
     "article_title": "29 Things You Never Knew About Nipples", 
     "author": {
@@ -451,7 +451,7 @@
   }, 
   {
     "url": "/peggy/all-i-ever-wanted", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 964, 
     "article_title": "37 Things That Actually Belong On Your Wishlist", 
     "author": {
@@ -461,7 +461,7 @@
   }, 
   {
     "url": "/christinebyrne/cutest-holiday-cookies", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 367, 
     "article_title": "27 Holiday Cookies That Are Almost Too Cute To Eat", 
     "author": {
@@ -471,7 +471,7 @@
   }, 
   {
     "url": "/morganshanahan/merry-christmas-you-little-jerk", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 226, 
     "article_title": "21 Christmas Shirts Every Sarcastic Parent Needs", 
     "author": {
@@ -481,7 +481,7 @@
   }, 
   {
     "url": "/mackenziekruvant/mmm-pancakes", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 517, 
     "article_title": "21 Pancakes That Will Make You Want Breakfast For Every Meal", 
     "author": {
@@ -491,7 +491,7 @@
   }, 
   {
     "url": "/morganshanahan/a-group-of-moms-parodied-taylor-swifts-blank-space-and-it-is", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 376, 
     "article_title": "This Mom's Parody Of Taylor Swift\u00e2\u0080\u0099s \u00e2\u0080\u009cBlank Space\u00e2\u0080\u009d Is Absolutely Hilarious", 
     "author": {
@@ -501,7 +501,7 @@
   }, 
   {
     "url": "/leonoraepstein/littlebitsofblingforunder25", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 259, 
     "article_title": "25 Delicate Bits Of Bling For Under $25", 
     "author": {
@@ -511,7 +511,7 @@
   }, 
   {
     "url": "/mikespohr/this-is-the-one-pajama-set-you-dont-want-to-buy-your-kid-thi", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 69, 
     "article_title": "This Is The One Pajama Set You Don't Want To Buy Your Kid This Christmas", 
     "author": {
@@ -521,7 +521,7 @@
   }, 
   {
     "url": "/morganshanahan/thingsyouneedtoknowaboutthemenschonthebench", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 43, 
     "article_title": "21 Things You Need To Know About The Mensch On The Bench", 
     "author": {
@@ -531,7 +531,7 @@
   }, 
   {
     "url": "/juliegerstein/you-probably-need-this-tiny-dinosaur-menorah", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 90, 
     "article_title": "Stop What You're Doing And Look At This Amazing Dinosaur Menorah", 
     "author": {
@@ -541,7 +541,7 @@
   }, 
   {
     "url": "/mikespohr/holiday-activities-ranked-by-the-odds-of-your-kid-melting-do", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 27, 
     "article_title": "Holiday Activities Ranked By The Odds Of Your Kid Melting Down", 
     "author": {
@@ -551,7 +551,7 @@
   }, 
   {
     "url": "/rachelysanders/most-important-nachos", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 174, 
     "article_title": "21 Nachos That Changed The World In 2014", 
     "author": {
@@ -561,7 +561,7 @@
   }, 
   {
     "url": "/alannaokun/have-an-ugly-fugly-christmas", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 89, 
     "article_title": "19 Stupefyingly Ugly Christmas Sweaters You Can Buy", 
     "author": {
@@ -571,7 +571,7 @@
   }, 
   {
     "url": "/rachelwmiller/guys-with-tat-sleeves-who-will-make-you-thirsty", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 615, 
     "article_title": "19 Guys With Tat Sleeves Who Will Make You Thirsty", 
     "author": {
@@ -581,7 +581,7 @@
   }, 
   {
     "url": "/jessicamisener/putting-the-mac-on", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 613, 
     "article_title": "21 Mac 'N' Cheeses That Are Better Than A Boyfriend", 
     "author": {
@@ -591,7 +591,7 @@
   }, 
   {
     "url": "/juliegerstein/this-4-year-old-instagram-star-just-designed-a-collection-fo", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 481, 
     "article_title": "J. Crew Just Had A 4-Year-Old Instagram Star Design A Collection For Them", 
     "author": {
@@ -601,7 +601,7 @@
   }, 
   {
     "url": "/maitlandquitmeyer/tarjay-boutique", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 773, 
     "article_title": "33 Genius Gifts You Didn't Know You Could Buy At Target", 
     "author": {
@@ -611,7 +611,7 @@
   }, 
   {
     "url": "/rachelysanders/candy-cuisine", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 255, 
     "article_title": "You Won't Believe These Meals Are Actually Made Of Candy", 
     "author": {
@@ -621,7 +621,7 @@
   }, 
   {
     "url": "/alisoncaporimo/10-things-to-learn-in-10-minutes-that-will-change-your-life", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 427, 
     "article_title": "10 Things To Learn In 10 Minutes That Will Change Your Life", 
     "author": {
@@ -631,7 +631,7 @@
   }, 
   {
     "url": "/maitlandquitmeyer/lupita-nyongo-214", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 314, 
     "article_title": "27 Times Lupita Nyong'o Absolutely Killed It In 2014", 
     "author": {
@@ -641,7 +641,7 @@
   }, 
   {
     "url": "/mackenziekruvant/is-it-legal-to-marry-a-cake", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 434, 
     "article_title": "24 Of The Most Beautiful Wedding Cakes Of 2014", 
     "author": {
@@ -651,7 +651,7 @@
   }, 
   {
     "url": "/mikespohr/things-your-kids-learn-by-watching-you", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 125, 
     "article_title": "23 Things Your Kids Learn By Watching You", 
     "author": {
@@ -661,7 +661,7 @@
   }, 
   {
     "url": "/mallorymcinnis/gadgets-galore", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 974, 
     "article_title": "33 Insanely Clever Products That Came Out In 2014", 
     "author": {
@@ -671,7 +671,7 @@
   }, 
   {
     "url": "/rachelwmiller/oh-tannenbeard", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 394, 
     "article_title": "These Guys Created Beard Ornaments To Decorate Your Face For The Holidays", 
     "author": {
@@ -681,7 +681,7 @@
   }, 
   {
     "url": "/carolynkylstra/mason-jar-salads", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 374, 
     "article_title": "18 Mason Jar Salads That Make Perfect Healthy Lunches", 
     "author": {
@@ -691,7 +691,7 @@
   }, 
   {
     "url": "/christinebyrne/paleo-slow-cooker", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 103, 
     "article_title": "33 Delicious Paleo Recipes To Make In A Slow Cooker", 
     "author": {
@@ -701,7 +701,7 @@
   }, 
   {
     "url": "/mallorymcinnis/chiliphilly-is-the-king-of-hats", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 232, 
     "article_title": "Here Are The Best Hats You've Ever Seen", 
     "author": {
@@ -711,7 +711,7 @@
   }, 
   {
     "url": "/mikespohr/printables-to-seriously-up-your-elf-on-the-shelf-game", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 59, 
     "article_title": "18 Printables To Seriously Up Your Elf On The Shelf Game", 
     "author": {
@@ -721,7 +721,7 @@
   }, 
   {
     "url": "/alessiasantoro/bae-aka-bloated-after-eating", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 244, 
     "article_title": "Parents Guess The Meanings Of 2014 Buzz Words", 
     "author": {
@@ -731,7 +731,7 @@
   }, 
   {
     "url": "/juliegerstein/how-you-can-make-one-little-black-dress-work-for-all-your-ho", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 229, 
     "article_title": "This Little Black Dress Is The Answer To All Your Holiday Party Problems", 
     "author": {
@@ -741,7 +741,7 @@
   }, 
   {
     "url": "/marietelling/the-ultimate-parisian-guide-to-paris", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 219, 
     "article_title": "The Ultimate Parisian Guide To Paris", 
     "author": {
@@ -751,7 +751,7 @@
   }, 
   {
     "url": "/alisoncaporimo/stop-everything-and-watch-this-one-life-changing-wrapping-ha", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1373, 
     "article_title": "Stop Everything And Watch This One Life-Changing Wrapping Hack", 
     "author": {
@@ -761,7 +761,7 @@
   }, 
   {
     "url": "/rachelysanders/food-subscription-boxes", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 406, 
     "article_title": "19 Food And Booze Subscription Boxes That Make Awesome Gifts", 
     "author": {
@@ -771,7 +771,7 @@
   }, 
   {
     "url": "/alisoncaporimo/diy-ornaments-that-prove-crafters", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 119, 
     "article_title": "21 Turnt Up DIY Ornaments You Need To Make Before 2015", 
     "author": {
@@ -781,7 +781,7 @@
   }, 
   {
     "url": "/benuyeda/holiday-diy-projects-awjd", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 84, 
     "article_title": "19 DIY Projects To Do Before The Holidays", 
     "author": {
@@ -791,7 +791,7 @@
   }, 
   {
     "url": "/jessicaprobus/how-to-have-an-amazing-christmas-for-under-100", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 126, 
     "article_title": "How To Have An Amazing Christmas For Under $100", 
     "author": {
@@ -801,7 +801,7 @@
   }, 
   {
     "url": "/mackenziekruvant/most-important-kendall-jenner-outfits-of-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 195, 
     "article_title": "The 21 Most Important Kendall Jenner Outfits Of 2014", 
     "author": {
@@ -811,7 +811,7 @@
   }, 
   {
     "url": "/juliegerstein/raisin-hell", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 223, 
     "article_title": "23 Delicious Foods That Were Needlessly Destroyed By Raisins", 
     "author": {
@@ -821,7 +821,7 @@
   }, 
   {
     "url": "/mikespohr/signs-youre-a-family-of-christmas-fanatics", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 36, 
     "article_title": "25 Signs You're A Family Of Christmas Fanatics", 
     "author": {
@@ -831,7 +831,7 @@
   }, 
   {
     "url": "/jessicaprobus/hint-hint-santa-baby", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 784, 
     "article_title": "58 Secret Santa Gifts Under $20 That Everyone Will Want", 
     "author": {
@@ -841,7 +841,7 @@
   }, 
   {
     "url": "/carolynkylstra/eat-less-sugar", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 264, 
     "article_title": "14 Ways To Eat Less Sugar In 2015", 
     "author": {
@@ -851,7 +851,7 @@
   }, 
   {
     "url": "/morganshanahan/england-is-telling-women-to-have-their-babies-at-home", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 66, 
     "article_title": "U.K. Now Wants Women To Have Their Babies At Home", 
     "author": {
@@ -861,7 +861,7 @@
   }, 
   {
     "url": "/carolynkylstra/important-health-stories-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 120, 
     "article_title": "27 Things That Changed The Way We Think About Health In 2014", 
     "author": {
@@ -871,7 +871,7 @@
   }, 
   {
     "url": "/alessiasantoro/jack-and-rose-found-love-without-tinder", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 121, 
     "article_title": "This Is What Happens On Tinder When You Use Only \"Titanic\" Quotes", 
     "author": {
@@ -881,7 +881,7 @@
   }, 
   {
     "url": "/juliegerstein/19-sweaters-that-say-how-youre-really-feeling", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 75, 
     "article_title": "19 Sweaters That Say How You Really Feel", 
     "author": {
@@ -891,7 +891,7 @@
   }, 
   {
     "url": "/samimain/ketchup-tells-a-lot-about-a-person", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 151, 
     "article_title": "What Kind Of Person Are You?", 
     "author": {
@@ -901,7 +901,7 @@
   }, 
   {
     "url": "/alannaokun/school-sucks", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 90, 
     "article_title": "19 Extremely Important Works Of Calculator Art", 
     "author": {
@@ -911,7 +911,7 @@
   }, 
   {
     "url": "/rachelwmiller/subscription-gifts-theyll-love-all-year-long", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 161, 
     "article_title": "31 Subscription Gifts They'll Love All Year", 
     "author": {
@@ -921,7 +921,7 @@
   }, 
   {
     "url": "/augustafalletta/17-tricks-to-make-thin-hair-look-seriously-thick", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 434, 
     "article_title": "17 Genius Ways To Make Thin Hair Look Seriously Thick", 
     "author": {
@@ -931,7 +931,7 @@
   }, 
   {
     "url": "/kollabora/baubles-galore", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 98, 
     "article_title": "10 Adorable DIY Ornaments For Your Holiday Tree", 
     "author": {
@@ -941,7 +941,7 @@
   }, 
   {
     "url": "/melissaharrison/chocolate-and-sea-salt-desserts", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 297, 
     "article_title": "21 Magical Chocolate & Sea Salt Desserts", 
     "author": {
@@ -951,7 +951,7 @@
   }, 
   {
     "url": "/jessicaprobus/websites-for-woman", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 795, 
     "article_title": "32 Amazingly Useful Websites Every Woman Needs To Bookmark", 
     "author": {
@@ -961,7 +961,7 @@
   }, 
   {
     "url": "/morganshanahan/black-nurseries-that-are-surprisingly-cheerful", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 247, 
     "article_title": "21 Black Nurseries That Are Surprisingly Cheerful", 
     "author": {
@@ -971,7 +971,7 @@
   }, 
   {
     "url": "/jessicaprobus/hit-the-road", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 499, 
     "article_title": "28 Scenic Routes You Need To Take Before You Die", 
     "author": {
@@ -981,7 +981,7 @@
   }, 
   {
     "url": "/mikespohr/milestones-you-wont-find-in-the-baby-books", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 322, 
     "article_title": "17 Milestones You Won't Find In The Baby Books", 
     "author": {
@@ -991,7 +991,7 @@
   }, 
   {
     "url": "/rachelwmiller/christmas-cards-you-can-diy-in-under-an-hour", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 102, 
     "article_title": "23 DIY Christmas Cards You Can Make In Under An Hour", 
     "author": {
@@ -1001,7 +1001,7 @@
   }, 
   {
     "url": "/maitlandquitmeyer/baby-balmain", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 276, 
     "article_title": "24 Times North West Schooled You In Fashion", 
     "author": {
@@ -1011,7 +1011,7 @@
   }, 
   {
     "url": "/peggy/life-saving-holiday-hacks-that-are-borderline-genius", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 580, 
     "article_title": "51 Life-Saving Holiday Hacks That Are Borderline Genius", 
     "author": {
@@ -1021,7 +1021,7 @@
   }, 
   {
     "url": "/christinebyrne/food-on-food", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 540, 
     "article_title": "23 Insanely Delicious Food-On-Food Recipes", 
     "author": {
@@ -1031,7 +1031,7 @@
   }, 
   {
     "url": "/bricesander/style-cues-to-take-from-nick-jonas", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 86, 
     "article_title": "8 Style Lessons Nick Jonas Can Teach Us", 
     "author": {
@@ -1041,7 +1041,7 @@
   }, 
   {
     "url": "/alessiasantoro/it-just-gets-ripped-open-in-the-end-anyways", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 365, 
     "article_title": "27 Clever Gift Wrapping Tricks For Lazy People", 
     "author": {
@@ -1051,7 +1051,7 @@
   }, 
   {
     "url": "/augustafalletta/crucial-things-to-consider-before-you-cut-bangs", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 211, 
     "article_title": "14 Crucial Things To Consider Before You Cut Bangs", 
     "author": {
@@ -1061,7 +1061,7 @@
   }, 
   {
     "url": "/alannaokun/corn-socks-r-us", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 597, 
     "article_title": "31 Unexpected Gifts You Never Knew You Could Buy On Amazon", 
     "author": {
@@ -1071,7 +1071,7 @@
   }, 
   {
     "url": "/melissaharrison/slow-cooker-dip-recipes", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 346, 
     "article_title": "18 Easy Party Dips You Can Make In A Slow Cooker", 
     "author": {
@@ -1081,7 +1081,7 @@
   }, 
   {
     "url": "/jessicaprobus/everybody-poops", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 242, 
     "article_title": "24 Poop Emoji Gifts Literally Everyone Needs", 
     "author": {
@@ -1091,7 +1091,7 @@
   }, 
   {
     "url": "/jessicaprobus/o-k-cups", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 221, 
     "article_title": "33 Genius Ways To Reuse Your K-Cups", 
     "author": {
@@ -1101,7 +1101,7 @@
   }, 
   {
     "url": "/rachelysanders/punch-buggy", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 251, 
     "article_title": "21 Big-Batch Cocktails To Get Everyone Drunk At Your Holiday Party", 
     "author": {
@@ -1111,7 +1111,7 @@
   }, 
   {
     "url": "/juliegerstein/hot-dudes-who-prove-that-2014-was-the-year-of-the-man-bra", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 218, 
     "article_title": "23 Hot Dudes Who Prove That 2014 Was The Year Of The Man Braid", 
     "author": {
@@ -1121,7 +1121,7 @@
   }, 
   {
     "url": "/alessiasantoro/stick-it-in-your-sock-and-gift-it", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1391, 
     "article_title": "46 Genius Stocking Stuffers You'll Want To Keep For Yourself", 
     "author": {
@@ -1131,7 +1131,7 @@
   }, 
   {
     "url": "/juliegerstein/18-times-lauren-conrad-totally-owned-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 159, 
     "article_title": "Proof That Lauren Conrad Had The Best 2014 Ever", 
     "author": {
@@ -1141,7 +1141,7 @@
   }, 
   {
     "url": "/peggy/impossibly-adorable-diy-christmas-decorations-641", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 454, 
     "article_title": "62 Impossibly Adorable Ways To Decorate This Christmas", 
     "author": {
@@ -1151,7 +1151,7 @@
   }, 
   {
     "url": "/christinebyrne/holiday-bake-it-list", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 708, 
     "article_title": "31 Delicious Things To Bake This Holiday Season", 
     "author": {
@@ -1161,7 +1161,7 @@
   }, 
   {
     "url": "/juliegerstein/this-sassy-viral-video-star-is-now-an-american-apparel-model", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 723, 
     "article_title": "Fierce Viral Video Sensation Brendan Jordan Is A Model Now", 
     "author": {
@@ -1171,7 +1171,7 @@
   }, 
   {
     "url": "/alisoncaporimo/things-every-woman-should-buy-in-the-mens-department", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1201, 
     "article_title": "8 Things You Should Really Be Buying In The Men's Department", 
     "author": {
@@ -1181,7 +1181,7 @@
   }, 
   {
     "url": "/jarrylee/pizza-is-bae", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 165, 
     "article_title": "Your Relationship With Pizza As Told Through Celine Dion Lyrics", 
     "author": {
@@ -1191,7 +1191,7 @@
   }, 
   {
     "url": "/juliegerstein/its-officially-dudes-wearing-shorts-in-the-snow-season", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 103, 
     "article_title": "It's Officially \"Dudes Wearing Shorts In The Snow\" Season", 
     "author": {
@@ -1201,7 +1201,7 @@
   }, 
   {
     "url": "/maitlandquitmeyer/do-you-know-which-of-these-events-happened-first", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 100, 
     "article_title": "Do You Know Which Of These Events Happened First?", 
     "author": {
@@ -1211,7 +1211,7 @@
   }, 
   {
     "url": "/mallorymcinnis/advent-calendars-for-all", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 116, 
     "article_title": "29 Advent Calendars To Help Celebrate The Most Wonderful Time Of The Year", 
     "author": {
@@ -1221,7 +1221,7 @@
   }, 
   {
     "url": "/juliegerstein/solange-is-superior", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 346, 
     "article_title": "23 Times Solange Was More Stylish Than Her Big Sister", 
     "author": {
@@ -1231,7 +1231,7 @@
   }, 
   {
     "url": "/rachelwmiller/outfits-to-help-you-keep-it-comfy-at-the-office", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 268, 
     "article_title": "17 Impossibly Comfy Outfits To Wear To Work This Winter", 
     "author": {
@@ -1241,7 +1241,7 @@
   }, 
   {
     "url": "/jessicaprobus/go-lilo-or-go-home", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 82, 
     "article_title": "Lindsay Lohan Is \"Designing\" A Clothing Line For Dudes Called \"My Addiction\"", 
     "author": {
@@ -1251,7 +1251,7 @@
   }, 
   {
     "url": "/mackenziekruvant/jawline-so-sharp-it-could-cut-cheese", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 424, 
     "article_title": "The 19 Most Important Jawlines Of 2014", 
     "author": {
@@ -1261,7 +1261,7 @@
   }, 
   {
     "url": "/carolynkylstra/smiles-for-miles", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 89, 
     "article_title": "9 Incredibly Important Reasons To Smile Right This Minute", 
     "author": {
@@ -1271,7 +1271,7 @@
   }, 
   {
     "url": "/mikespohr/the-19-most-heartwarming-stories-about-kids-in-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 306, 
     "article_title": "19 Kids Who Restored Your Faith In Humanity In 2014", 
     "author": {
@@ -1281,7 +1281,7 @@
   }, 
   {
     "url": "/alessiasantoro/2014s-most-popular-ink", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1497, 
     "article_title": "19 Tattoos That Literally Everyone Got In 2014", 
     "author": {
@@ -1291,7 +1291,7 @@
   }, 
   {
     "url": "/juliegerstein/women-are-dying-their-armpit-hair-now", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1021, 
     "article_title": "Women Are Dyeing Their Armpit Hair Tons Of Fun Colors", 
     "author": {
@@ -1301,7 +1301,7 @@
   }, 
   {
     "url": "/rachelysanders/lazy-girl-recipes", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1393, 
     "article_title": "17 Recipes Every Lazy Girl Needs To Know", 
     "author": {
@@ -1311,7 +1311,7 @@
   }, 
   {
     "url": "/rachelzarrell/how-to-quickly-peel-garlic", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 168, 
     "article_title": "This Is How To Peel Garlic In Seconds", 
     "author": {
@@ -1321,7 +1321,7 @@
   }, 
   {
     "url": "/briangalindo/29-cool-stylish-holiday-gift-ideas-under-100-for-the-guy-in", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 255, 
     "article_title": "29 Cool And Stylish Holiday Gift Ideas Under $100 For The Guy In Your Life", 
     "author": {
@@ -1331,7 +1331,7 @@
   }, 
   {
     "url": "/augustafalletta/turns-out-shaking-your-booty-can-actually-be-good-for-pregna", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 78, 
     "article_title": "It Turns Out Shaking Your Butt Can Actually Be Good For Pregnancy", 
     "author": {
@@ -1341,7 +1341,7 @@
   }, 
   {
     "url": "/carolynkylstra/kale-facts-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 34, 
     "article_title": "17 Reasons Why 2014 Was Kale's Best Year Ever", 
     "author": {
@@ -1351,7 +1351,7 @@
   }, 
   {
     "url": "/juliegerstein/slipper-into-this", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 222, 
     "article_title": "27 Pairs Of Cozy Slippers Every Lazy Girl Needs", 
     "author": {
@@ -1361,7 +1361,7 @@
   }, 
   {
     "url": "/alisoncaporimo/different-types-of-orgasms", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 115, 
     "article_title": "Are You Capable Of Different Types Of Orgasms?", 
     "author": {
@@ -1371,7 +1371,7 @@
   }, 
   {
     "url": "/marietelling/24-reasons-why-living-in-sweden-will-ruin-you-for-life", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 426, 
     "article_title": "24 Reasons Why Living In Sweden Will Ruin You For Life", 
     "author": {
@@ -1381,7 +1381,7 @@
   }, 
   {
     "url": "/leonoraepstein/classy-vintage-holiday-dresses-under-100", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 180, 
     "article_title": "19 Classy Vintage Holiday Dresses Under $100", 
     "author": {
@@ -1391,7 +1391,7 @@
   }, 
   {
     "url": "/jessicaprobus/the-year-in-bae", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 156, 
     "article_title": "25 Words That Had A Totally Different Meaning In 2014", 
     "author": {
@@ -1401,7 +1401,7 @@
   }, 
   {
     "url": "/rachelysanders/onesie-life-onesie-love", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 122, 
     "article_title": "23 Things That Are A Million Times Better When You Do Them In A Onesie", 
     "author": {
@@ -1411,7 +1411,7 @@
   }, 
   {
     "url": "/morganshanahan/the-real-reason-you-kind-of-want-to-take-a-bite-out-of-your", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 681, 
     "article_title": "There's Actually A Scientific Reason You Sometimes Want To Eat Your Baby (or Puppy)", 
     "author": {
@@ -1421,7 +1421,7 @@
   }, 
   {
     "url": "/juliegerstein/this-is-what-the-angels-wore-in-this-years-victorias-secret", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 212, 
     "article_title": "27 Of The Craziest Looks From The Victoria's Secret Fashion Show", 
     "author": {
@@ -1431,7 +1431,7 @@
   }, 
   {
     "url": "/mackenziekruvant/give-taylor-her-wings", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 470, 
     "article_title": "13 Reasons Taylor Swift Should Be A Victoria's Secret Angel", 
     "author": {
@@ -1441,7 +1441,7 @@
   }, 
   {
     "url": "/mackenziekruvant/let-2014-go", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 352, 
     "article_title": "The 23 Most \"Frozen\" Things That Happened In 2014", 
     "author": {
@@ -1451,7 +1451,7 @@
   }, 
   {
     "url": "/mallorymcinnis/books-to-read-with-kids-in-2015", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 144, 
     "article_title": "25 Ridiculously Wonderful Books To Read With Kids In 2015", 
     "author": {
@@ -1461,7 +1461,7 @@
   }, 
   {
     "url": "/alisoncaporimo/transform-a-plain-black-sweatshirt", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 277, 
     "article_title": "5 Ways To Transform A Plain Black Sweatshirt", 
     "author": {
@@ -1471,7 +1471,7 @@
   }, 
   {
     "url": "/rachelzarrell/ella-cant-catch-a-break", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 645, 
     "article_title": "The 20 Most Common Names For Badly Behaved Children", 
     "author": {
@@ -1481,7 +1481,7 @@
   }, 
   {
     "url": "/carolynkylstra/silver-linings-are-real", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 129, 
     "article_title": "How Your Greatest Weakness Can Actually Be A Strength", 
     "author": {
@@ -1491,7 +1491,7 @@
   }, 
   {
     "url": "/mackenziekruvant/jake-gyllenhaal-is-bae", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 221, 
     "article_title": "Super Hot Jake Gyllenhaal Is Back Again", 
     "author": {
@@ -1501,7 +1501,7 @@
   }, 
   {
     "url": "/samimain/yes-my-tears-are-gluten-free", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 66, 
     "article_title": "16 Things That Happen When You Don't Eat Gluten During The Holidays", 
     "author": {
@@ -1511,7 +1511,7 @@
   }, 
   {
     "url": "/carolynkylstra/more-like-mean-boys", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 123, 
     "article_title": "Mean Girls? Actually Science Says Boys Are Meaner", 
     "author": {
@@ -1521,7 +1521,7 @@
   }, 
   {
     "url": "/juliegerstein/these-colllege-kids-made-gloves-thatll-tweet-for-you", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 103, 
     "article_title": "These Gloves Tweet When You Make The Hashtag Symbol With Your Hands", 
     "author": {
@@ -1531,7 +1531,7 @@
   }, 
   {
     "url": "/augustafalletta/19-incredible-tricks-to-make-waxing-less-painful", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 191, 
     "article_title": "19 Incredible Tricks To Make Waxing Less Painful", 
     "author": {
@@ -1541,7 +1541,7 @@
   }, 
   {
     "url": "/mikespohr/26-weird-things-kids-have-asked-mall-santas-for", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 310, 
     "article_title": "26 Weird Things Kids Have Asked Mall Santas For", 
     "author": {
@@ -1551,7 +1551,7 @@
   }, 
   {
     "url": "/alessiasantoro/you-so-pee-in-the-shower", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 229, 
     "article_title": "How Weird Are Your Shower Habits?", 
     "author": {
@@ -1561,7 +1561,7 @@
   }, 
   {
     "url": "/augustafalletta/see-100-years-of-makeup-in-less-than-one-minute", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2103, 
     "article_title": "Watch 100 Years Of Makeup In Less Than A Minute", 
     "author": {
@@ -1571,7 +1571,7 @@
   }, 
   {
     "url": "/mallorymcinnis/famous-fonts", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 190, 
     "article_title": "32 Famous Fonts You Need To Download Immediately", 
     "author": {
@@ -1581,7 +1581,7 @@
   }, 
   {
     "url": "/carolynkylstra/melinda-gates-recommends-charities-for-women-and-girls", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 31, 
     "article_title": "5 Best Charities That Benefit Women And Girls According To Melinda Gates", 
     "author": {
@@ -1591,7 +1591,7 @@
   }, 
   {
     "url": "/juliegerstein/one-mans-heartbreaking-farewell-to-his-sexy-winter-beard", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 272, 
     "article_title": "One Man's Heartbreaking Farewell To His Sexy Winter Beard", 
     "author": {
@@ -1601,7 +1601,7 @@
   }, 
   {
     "url": "/joannaborns/would-you-rather-christmas", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 204, 
     "article_title": "The Toughest Game Of Would You Rather: Christmas Edition", 
     "author": {
@@ -1611,7 +1611,7 @@
   }, 
   {
     "url": "/briangalindo/yes-youre-getting-old", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 306, 
     "article_title": "35 Movies That Are Turning 10 Years Old In 2015", 
     "author": {
@@ -1621,7 +1621,7 @@
   }, 
   {
     "url": "/lyapalater/other-emails-kim-kardashian-has-sent-her-mom", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 414, 
     "article_title": "7 Other Emails Kim Kardashian Has Sent Her Mom", 
     "author": {
@@ -1631,7 +1631,7 @@
   }, 
   {
     "url": "/lindseyadler/new-video-shows-ray-and-janay-rice-kiss-just-after-elevator", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 0, 
     "article_title": "New Video Shows Ray And Janay Rice Kiss Just After Elevator Assault", 
     "author": {
@@ -1641,7 +1641,7 @@
   }, 
   {
     "url": "/michaelrusch/watch-a-kangaroo-in-australia-punch-a-drone-out-of-the-sky", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 245, 
     "article_title": "Watch A Kangaroo In Australia Punch A Drone Out Of The Sky", 
     "author": {
@@ -1651,7 +1651,7 @@
   }, 
   {
     "url": "/erinlarosa/problems-all-game-of-thrones-fans-will-understand", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 231, 
     "article_title": "21 Struggles All \"Game Of Thrones\" Fans Understand", 
     "author": {
@@ -1661,7 +1661,7 @@
   }, 
   {
     "url": "/samstryker/have-you-been-naughty-or-nice-this-year", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 223, 
     "article_title": "How Good Have You Actually Been This Year?", 
     "author": {
@@ -1671,7 +1671,7 @@
   }, 
   {
     "url": "/lyapalater/the-most-leonardo-dicaprio-things-that-leonardo-dicapr", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 277, 
     "article_title": "17 Of The Most Leonardo DiCaprio Things That Leonardo DiCaprio Did In 2014", 
     "author": {
@@ -1681,7 +1681,7 @@
   }, 
   {
     "url": "/kirstenking/animal-gifs-that-perfectly-sum-up-flirting", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 201, 
     "article_title": "14 GIFs That Perfectly Sum Up Flirting", 
     "author": {
@@ -1691,7 +1691,7 @@
   }, 
   {
     "url": "/alexalvarez/just-some-nutty-stuff", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 30, 
     "article_title": "In Defense Of Fruitcake", 
     "author": {
@@ -1701,7 +1701,7 @@
   }, 
   {
     "url": "/ryanhatesthis/the-26-most-popular-yik-yak-posts-of-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 594, 
     "article_title": "The 26 Most Popular Yik Yak Posts Of 2014", 
     "author": {
@@ -1711,7 +1711,7 @@
   }, 
   {
     "url": "/annas31/can-you-make-it-through-these-jake-gyllenhaal-gifs-942y", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 21, 
     "article_title": "Can You Make It Through These Jake Gyllenhaal GIFs Without Swooning?", 
     "author": {
@@ -1721,7 +1721,7 @@
   }, 
   {
     "url": "/mjs538/sam-rockwell-michael-godere-and-ivan-martin-reaction-gifs-fo", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 30, 
     "article_title": "Sam Rockwell, Michael Godere, And Ivan Martin Reaction Gifs For Everyday Situations", 
     "author": {
@@ -1731,7 +1731,7 @@
   }, 
   {
     "url": "/norbertobriceno/cats-and-facts", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 59, 
     "article_title": "WWE Superstar Tyson Kidd Has Cats And They Are The Most Adorable Creatures Ever", 
     "author": {
@@ -1741,7 +1741,7 @@
   }, 
   {
     "url": "/katienotopoulos/the-21-most-important-updogs-of-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 20, 
     "article_title": "The 21 Greatest Updogs Of 2014", 
     "author": {
@@ -1751,7 +1751,7 @@
   }, 
   {
     "url": "/danielkibblesmith/stuffed-with-fear", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 116, 
     "article_title": "The Creepiest Stuffed Animals In The World Can Be Yours", 
     "author": {
@@ -1761,7 +1761,7 @@
   }, 
   {
     "url": "/skarlan/ellen-page-was-han-solo-last-night-and-it-was-perfect", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 46, 
     "article_title": "Ellen Page Was Han Solo Last Night And It Was Perfect", 
     "author": {
@@ -1771,7 +1771,7 @@
   }, 
   {
     "url": "/kristinharris/god-bless-jake-gyllenhaal", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 358, 
     "article_title": "17 Times Jake Gyllenhaal Was So Perfect It Was Actually Painful", 
     "author": {
@@ -1781,7 +1781,7 @@
   }, 
   {
     "url": "/katieheaney/the-13-best-ghosts-of-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 25, 
     "article_title": "The 13 Best Ghosts Of 2014", 
     "author": {
@@ -1791,7 +1791,7 @@
   }, 
   {
     "url": "/kaelintully/got-99-problems-and-i-am-all-of-them", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 154, 
     "article_title": "17 Dogs Who Partied Too Hard At Their Holiday Party", 
     "author": {
@@ -1801,7 +1801,7 @@
   }, 
   {
     "url": "/sydneyscott/an-ode-to-criss-angel", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 41, 
     "article_title": "An Ode To Criss Angel", 
     "author": {
@@ -1811,7 +1811,7 @@
   }, 
   {
     "url": "/mjs538/this-is-what-happens-when-a-stadium-is-abandoned-for-years", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 227, 
     "article_title": "This Is What Happens When A Football Stadium Is Abandoned For 8 Years", 
     "author": {
@@ -1821,7 +1821,7 @@
   }, 
   {
     "url": "/lorynbrantz/everything-is-cool-when-youre-part-of-a-team", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 76, 
     "article_title": "A Theory On How We're All Connected As Explained By Lego Bricks", 
     "author": {
@@ -1831,7 +1831,7 @@
   }, 
   {
     "url": "/lyapalater/times-family-fued-contestants-spoke-the-damn-truth", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2344, 
     "article_title": "19 Times \"Family Feud\" Contestants Spoke The Damn Truth", 
     "author": {
@@ -1841,7 +1841,7 @@
   }, 
   {
     "url": "/kasiagalazka/make-better-pie-using-science", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 55, 
     "article_title": "Make Your Pie Even Better Using These Science Tips", 
     "author": {
@@ -1851,7 +1851,7 @@
   }, 
   {
     "url": "/katherinesatterley/13-inappropriate-truths-from-classic-christmas-son-16nf5", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 106, 
     "article_title": "13 Inappropriate Truths From Classic Christmas Songs", 
     "author": {
@@ -1861,7 +1861,7 @@
   }, 
   {
     "url": "/ericafutterman/gansey-gansey-gansey", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 20, 
     "article_title": "6 Reasons To Fall In Love With Maggie Stiefvater\u00e2\u0080\u0099s \u00e2\u0080\u009cRaven Cycle\u00e2\u0080\u009d", 
     "author": {
@@ -1871,7 +1871,7 @@
   }, 
   {
     "url": "/danielkibblesmith/my-beautiful-babies", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 882, 
     "article_title": "8 Child Stars' Remarkable Transformations", 
     "author": {
@@ -1881,7 +1881,7 @@
   }, 
   {
     "url": "/neyann/can-we-guess-your-favourite-movie-of-2014-r0f7", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 559, 
     "article_title": "Can We Guess Your Favourite Movie Of 2014?", 
     "author": {
@@ -1891,7 +1891,7 @@
   }, 
   {
     "url": "/erinchack/what-its-like-working-in-an-office-during-flu-season", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 50, 
     "article_title": "What It's Like Working In An Office During Flu Season", 
     "author": {
@@ -1901,7 +1901,7 @@
   }, 
   {
     "url": "/skarlan/the-cast-of-orange-is-the-new-black-just-covered-a-christmas", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 134, 
     "article_title": "The Cast Of \"Orange Is The New Black\" Just Covered A Christmas Classic", 
     "author": {
@@ -1911,7 +1911,7 @@
   }, 
   {
     "url": "/kaelintully/we-are-the-champions-of-cute", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 133, 
     "article_title": "The Top 12 Absolutely Adorable Pets Of The Week", 
     "author": {
@@ -1921,7 +1921,7 @@
   }, 
   {
     "url": "/hnigatu/times-you-were-done-with-tumblr", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 242, 
     "article_title": "23 Times You've Declared You Were Done With Tumblr", 
     "author": {
@@ -1931,7 +1931,7 @@
   }, 
   {
     "url": "/viktortk/22-reasons-why-faith-is-the-baddest-slayer-around-m2eg", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 56, 
     "article_title": "22 Reasons Faith Is The Baddest Slayer Around", 
     "author": {
@@ -1941,7 +1941,7 @@
   }, 
   {
     "url": "/kristinharris/zosia-mamet-chacha", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 12, 
     "article_title": "First Look: \u00e2\u0080\u009cGirls\u00e2\u0080\u009d Star Zosia Mamet Performing With Her New Band Chacha", 
     "author": {
@@ -1951,7 +1951,7 @@
   }, 
   {
     "url": "/joannaborns/is-your-mom-cheating-on-your-dad-with-santa-claus", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 28, 
     "article_title": "Is Your Mom Cheating On Your Dad With Santa Claus?", 
     "author": {
@@ -1961,7 +1961,7 @@
   }, 
   {
     "url": "/ruthsnchz/which-game-of-thrones-villain-are-you-12rfk", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 155, 
     "article_title": "Which \"Game Of Thrones\" Villain Are You?", 
     "author": {
@@ -1971,7 +1971,7 @@
   }, 
   {
     "url": "/mrloganrhoades/presidents-politicians-and-celebs-say-goodbye-to-the-colbert", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 68, 
     "article_title": "Presidents, Politicians, And Celebs Say Good-Bye To \"The Colbert Report\"", 
     "author": {
@@ -1981,7 +1981,7 @@
   }, 
   {
     "url": "/dorsey/is-this-famous-person-from-cuba", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 22, 
     "article_title": "Is This Famous Person From Cuba?", 
     "author": {
@@ -1991,7 +1991,7 @@
   }, 
   {
     "url": "/jenniferschaffer/honey-whats-this", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 152, 
     "article_title": "26 Indispensible Life Lessons \"Will & Grace\" Taught You", 
     "author": {
@@ -2001,7 +2001,7 @@
   }, 
   {
     "url": "/friendsfreak/how-well-do-you-know-hannah-montana-15gnz", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 183, 
     "article_title": "How Well Do You Know \"Hannah Montana?\"", 
     "author": {
@@ -2011,7 +2011,7 @@
   }, 
   {
     "url": "/whitneyjefferson/fashion-at-the-people-magazine-awards", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 40, 
     "article_title": "Fashion At The People Magazine Awards", 
     "author": {
@@ -2021,7 +2021,7 @@
   }, 
   {
     "url": "/stephipiefke/14-red-flags-youre-obsessed-with-a-college-u0zm", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 6, 
     "article_title": "14 Tell-Tale Signs You're Obsessed With A College", 
     "author": {
@@ -2031,7 +2031,7 @@
   }, 
   {
     "url": "/whitneyjefferson/the-shay-mitchell-guide-to-instagram", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 96, 
     "article_title": "The Shay Mitchell Guide To Killing It On Instagram", 
     "author": {
@@ -2041,7 +2041,7 @@
   }, 
   {
     "url": "/kristinharris/beyonces-holiday-card", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 193, 
     "article_title": "Beyonc\u00c3\u00a9 Sent Out The Greatest Holiday Cards That Could Possibly Ever Exist", 
     "author": {
@@ -2051,7 +2051,7 @@
   }, 
   {
     "url": "/jonnylimbo/15-reasons-why-dave-the-barbarian-was-the-best-sho-15aec", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 12, 
     "article_title": "15 Reasons \"Dave The Barbarian\" Was One Of The Best Shows Ever", 
     "author": {
@@ -2061,7 +2061,7 @@
   }, 
   {
     "url": "/brettvergara/which-justin-timberlake-song-are-you", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 241, 
     "article_title": "Which Justin Timberlake Song Are You?", 
     "author": {
@@ -2071,7 +2071,7 @@
   }, 
   {
     "url": "/expresident/maru-never-gives-up", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 91, 
     "article_title": "Maru Never Gives Up", 
     "author": {
@@ -2081,7 +2081,7 @@
   }, 
   {
     "url": "/kaelintully/could-go-for-a-snicker-doodle-cookie-rn-tbh", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 170, 
     "article_title": "39 Pictures That Will Get You Way Too Excited For Christmas", 
     "author": {
@@ -2091,7 +2091,7 @@
   }, 
   {
     "url": "/dominicholden/transgender-student-files-federal-complaint-against-school-d", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 25, 
     "article_title": "Transgender Student Files Federal Complaint Against School District For Banning Him From The Boys Restroom", 
     "author": {
@@ -2101,7 +2101,7 @@
   }, 
   {
     "url": "/franciswhittaker/fifa-agrees-to-publish-world-cup-corruption-report-findings", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1, 
     "article_title": "FIFA Agrees To Publish World Cup Corruption Report Findings", 
     "author": {
@@ -2111,7 +2111,7 @@
   }, 
   {
     "url": "/whitneyjefferson/amy-adams-is-excited-for-one-direction", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 166, 
     "article_title": "Amy Adams Is Just As Excited For One Direction As The Rest Of Us", 
     "author": {
@@ -2121,7 +2121,7 @@
   }, 
   {
     "url": "/jenniferschaffer/xojane-austen", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 55, 
     "article_title": "If Famous Writers Wrote For The Internet", 
     "author": {
@@ -2131,7 +2131,7 @@
   }, 
   {
     "url": "/keelyflaherty/urgent-questions-all-90s-kids-still-have-about-christmast", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 121, 
     "article_title": "19 Urgent Questions All '90s Kids Still Have About Christmastime", 
     "author": {
@@ -2141,7 +2141,7 @@
   }, 
   {
     "url": "/kirstenking/new-years-eve-on-instagram-vs-new-years-eve-in-rea", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 84, 
     "article_title": "New Year's Eve On Instagram Vs. Reality", 
     "author": {
@@ -2151,7 +2151,7 @@
   }, 
   {
     "url": "/candacelowry/we-need-to-talk-about-how-terrifying-elf-on-the-shelf-is", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 97, 
     "article_title": "We Need To Talk About How Creepy Elf On The Shelf Is", 
     "author": {
@@ -2161,7 +2161,7 @@
   }, 
   {
     "url": "/sheridanwatson/kiss-me-kate", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 101, 
     "article_title": "27 Times Kate Middleton Was A Totally Normal Chick In 2014", 
     "author": {
@@ -2171,7 +2171,7 @@
   }, 
   {
     "url": "/alexalvarez/17-struggles-people-who-hate-christmas-have-to-dea-ulso", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 43, 
     "article_title": "17 Struggles People Who Hate Christmas Have To Deal With", 
     "author": {
@@ -2181,7 +2181,7 @@
   }, 
   {
     "url": "/omarvillegas/skate-or-die", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 25, 
     "article_title": "21 Things Anyone Who Dreamed Of Being A Pro Skater Will Understand", 
     "author": {
@@ -2191,7 +2191,7 @@
   }, 
   {
     "url": "/briangalindo/19-christmas-decorations-that-are-nailing-the-whole", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 280, 
     "article_title": "17 Christmas Decorations That Will Make You Feel Like You Need To Take A Shower", 
     "author": {
@@ -2201,7 +2201,7 @@
   }, 
   {
     "url": "/mjkiebus/people-that-fcking-love-christmas-more-than-you", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 132, 
     "article_title": "22 People That F**king Love Christmas More Than You", 
     "author": {
@@ -2211,7 +2211,7 @@
   }, 
   {
     "url": "/kirstenking/dating-sites-every-twentysomething-actually-needs", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 157, 
     "article_title": "9 Dating Sites Every Twentysomething Actually Needs", 
     "author": {
@@ -2221,7 +2221,7 @@
   }, 
   {
     "url": "/norbertobriceno/18-things-every-mexican-knows-to-be-true-during-christmas-ti", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 186, 
     "article_title": "18 Things Every Mexican Knows To Be True During Christmastime", 
     "author": {
@@ -2231,7 +2231,7 @@
   }, 
   {
     "url": "/laraparker/what-does-your-first-cell-phone-say-about-you", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 206, 
     "article_title": "What Does Your First Cell Phone Say About You?", 
     "author": {
@@ -2241,7 +2241,7 @@
   }, 
   {
     "url": "/alexisnedd/hollywood-we-never-going-down", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 103, 
     "article_title": "23 Things Every Scene Kid Had On Their Christmas List", 
     "author": {
@@ -2251,7 +2251,7 @@
   }, 
   {
     "url": "/gabrielsanchez/women-and-their-handguns", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 161, 
     "article_title": "16 Striking Photos Of Women And The Guns They Carry", 
     "author": {
@@ -2261,7 +2261,7 @@
   }, 
   {
     "url": "/iramadison/kim-kardashian-has-started-an-internet-revolution", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 232, 
     "article_title": "Kim Kardashian Has Started An Internet Revolution", 
     "author": {
@@ -2271,7 +2271,7 @@
   }, 
   {
     "url": "/iramadison/miss-drew-if-youre-nasty", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 30, 
     "article_title": "21 Times Nancy Drew Summed Up Being On Santa's Naughty List", 
     "author": {
@@ -2281,7 +2281,7 @@
   }, 
   {
     "url": "/briangalindo/tbt-dj-tanner-and-urkel", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 82, 
     "article_title": "13 Celebrity #TBT Photos You May Have Missed This Week", 
     "author": {
@@ -2291,7 +2291,7 @@
   }, 
   {
     "url": "/christianzamora/hard-facts-about-boners-thatll-get-the-blood-flowing", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 580, 
     "article_title": "15 Hard Facts About Boners That'll Get The Blood Flowing", 
     "author": {
@@ -2301,7 +2301,7 @@
   }, 
   {
     "url": "/erinlarosa/32-tv-men-who-made-you-thirsty-in-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 350, 
     "article_title": "32 Men On TV Who Made You Thirsty In 2014", 
     "author": {
@@ -2311,7 +2311,7 @@
   }, 
   {
     "url": "/kirstenking/new-years-resolutions-every-awkward-person-should-make-fo", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 208, 
     "article_title": "22 New Years Resolutions Every Awkward Person Should Make For 2015", 
     "author": {
@@ -2321,7 +2321,7 @@
   }, 
   {
     "url": "/dominicholden/after-delay-nj-high-school-lets-transgender-student-use-boys", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "After Delay, NJ High School Lets Transgender Student Use Boys Restroom", 
     "author": {
@@ -2331,7 +2331,7 @@
   }, 
   {
     "url": "/perpetua/which-side-eye-are-you", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 271, 
     "article_title": "Which Side-Eye Are You?", 
     "author": {
@@ -2341,7 +2341,7 @@
   }, 
   {
     "url": "/kmallikarjuna/the-first-orphan-black-season-3-teaser-is-intense", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 71, 
     "article_title": "The First \"Orphan Black\" Season 3 Teaser Is Intense", 
     "author": {
@@ -2351,7 +2351,7 @@
   }, 
   {
     "url": "/mrloganrhoades/17-situations-in-which-it-is-perfectly-acceptable-to-play-ch", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 42, 
     "article_title": "17 Situations In Which It Is Perfectly Acceptable To Play Christmas Music", 
     "author": {
@@ -2361,7 +2361,7 @@
   }, 
   {
     "url": "/alexalvarez/a-shocking-amount-of-peen", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 123, 
     "article_title": "33 Christmas Fails That Prove Christmas Should Be Canceled", 
     "author": {
@@ -2371,7 +2371,7 @@
   }, 
   {
     "url": "/ariellecalderon/it-shoulda-been-you-gifs", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 19, 
     "article_title": "David Burtka And The Cast Of \"It Shoulda Been You\" Take Cute Wedding GIFs", 
     "author": {
@@ -2381,7 +2381,7 @@
   }, 
   {
     "url": "/jarrylee/which-harry-potter-spell-are-you", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 323, 
     "article_title": "Which Harry Potter Spell Are You?", 
     "author": {
@@ -2391,7 +2391,7 @@
   }, 
   {
     "url": "/skarlan/13-times-tumblr-made-you-check-your-homophobia-at-the-door", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 403, 
     "article_title": "13 Times Tumblr Made You Check Your Homophobia At The Door", 
     "author": {
@@ -2401,7 +2401,7 @@
   }, 
   {
     "url": "/weekend/buzzfeed-wknd-12182014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "BuzzFeed WKND: 12.21.14", 
     "author": {
@@ -2411,7 +2411,7 @@
   }, 
   {
     "url": "/daves4/greatest-tumblr-moment-in-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2170, 
     "article_title": "32 Of The Greatest Things That Happened On Tumblr In 2014", 
     "author": {
@@ -2421,7 +2421,7 @@
   }, 
   {
     "url": "/danielkibblesmith/serially-freaking-out-right-now", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 30, 
     "article_title": "11 Signs You're Going Through Serial Withdrawal", 
     "author": {
@@ -2431,7 +2431,7 @@
   }, 
   {
     "url": "/ryanhatesthis/katniss-taught-me-to-survive", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 279, 
     "article_title": "This Little Girl's Scrapbook Proves Exactly Why Strong Female Characters Are So Important", 
     "author": {
@@ -2441,7 +2441,7 @@
   }, 
   {
     "url": "/fivezaj/24-stages-of-becoming-a-taylor-swift-fan-a8zp", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 327, 
     "article_title": "The 24 Stages Of Becoming A Taylor Swift Fan", 
     "author": {
@@ -2451,7 +2451,7 @@
   }, 
   {
     "url": "/mrloganrhoades/13-reasons-joakim-noah-is-the-real-hero-of-the-chicago-bulls", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 72, 
     "article_title": "13 Reasons Joakim Noah Is The Real Hero Of The Chicago Bulls", 
     "author": {
@@ -2461,7 +2461,7 @@
   }, 
   {
     "url": "/lindseyadler/fcc-will-not-fine-broadcasters-for-saying-redskins-on-the-ai", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 14, 
     "article_title": "FCC Will Not Fine Broadcasters For Saying \"Redskins\" On The Air", 
     "author": {
@@ -2471,7 +2471,7 @@
   }, 
   {
     "url": "/tabirakhter/chicken-on-rice-on-fleek", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 165, 
     "article_title": "19 Reasons Why Halal Cart Is The Most Perfect Food", 
     "author": {
@@ -2481,7 +2481,7 @@
   }, 
   {
     "url": "/iramadison/ahh-ahh-ahh-ahh-ahh-ahhhhhh", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 261, 
     "article_title": "What Would Ursula Steal From You?", 
     "author": {
@@ -2491,7 +2491,7 @@
   }, 
   {
     "url": "/jonmichaelpoff/which-european-city-should-you-move-to", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 293, 
     "article_title": "Which European City Should You Pick Up And Move To?", 
     "author": {
@@ -2501,7 +2501,7 @@
   }, 
   {
     "url": "/tanyachen/how-old-fictional-characters-are-today", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 441, 
     "article_title": "Here's How Old Some Of Your Favorite Fictional Characters Would Be Today", 
     "author": {
@@ -2511,7 +2511,7 @@
   }, 
   {
     "url": "/kristinharris/celebrity-favorite-holiday-movies", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 62, 
     "article_title": "11 Celebs' All-Time Favorite Holiday Movies", 
     "author": {
@@ -2521,7 +2521,7 @@
   }, 
   {
     "url": "/jamesharness/25-perfect-uses-for-the-grinch-gif-xt5j", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 34, 
     "article_title": "25 Perfect Uses For The Grinch GIF", 
     "author": {
@@ -2531,7 +2531,7 @@
   }, 
   {
     "url": "/samstryker/7-thoughts-robbie-rogers-has-on-lgbt-issues-in-sports", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 21, 
     "article_title": "7 Thoughts Robbie Rogers Has On LGBT Issues In Sports", 
     "author": {
@@ -2541,7 +2541,7 @@
   }, 
   {
     "url": "/mjs538/things-you-probably-didnt-know-about-cuba", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 73, 
     "article_title": "32 Things You Probably Didn't Know About Cuba", 
     "author": {
@@ -2551,7 +2551,7 @@
   }, 
   {
     "url": "/joannaborns/how-will-you-ruin-christmas", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 104, 
     "article_title": "How Will You Ruin Christmas?", 
     "author": {
@@ -2561,7 +2561,7 @@
   }, 
   {
     "url": "/jessicamisener/what-does-wi-fi-stand-for", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 100, 
     "article_title": "No Seriously, What Does Wi-Fi Stand For?", 
     "author": {
@@ -2571,7 +2571,7 @@
   }, 
   {
     "url": "/colinheasley/gossip-girl-bff", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 170, 
     "article_title": "Which \"Gossip Girl\" Character Should Be Your BFF?", 
     "author": {
@@ -2581,7 +2581,7 @@
   }, 
   {
     "url": "/disneytasthic/how-well-do-you-know-the-lyrics-to-grandma-got-ra-11529", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 54, 
     "article_title": "How Well Do You Know The Lyrics To \"Grandma Got Run Over By A Reindeer?\"", 
     "author": {
@@ -2591,7 +2591,7 @@
   }, 
   {
     "url": "/mrsanta/this-is-what-happens-when-santa-claus-uses-tinder", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 103, 
     "article_title": "This Is What Happens When Santa Claus Uses Tinder", 
     "author": {
@@ -2601,7 +2601,7 @@
   }, 
   {
     "url": "/lindseyadler/the-chemist-charged-with-supplying-a-rods-dealer-with-perfor", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "The Chemist Charged With Supplying A-Rod's Dealer With Performance Enhancing Drugs Pleads Guilty", 
     "author": {
@@ -2611,7 +2611,7 @@
   }, 
   {
     "url": "/whitneyjefferson/jenny-slate-sings-landslide-as-marcel-the-shell", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 79, 
     "article_title": "Jenny Slate Sings \"Landslide\" As Marcel The Shell", 
     "author": {
@@ -2621,7 +2621,7 @@
   }, 
   {
     "url": "/whitneyjefferson/tell-us-about-yourselfie-dove-cameron", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 37, 
     "article_title": "Tell Us About Yourself(ie): Dove Cameron", 
     "author": {
@@ -2631,7 +2631,7 @@
   }, 
   {
     "url": "/dimitri/how-well-can-you-remember-christmas-lyrics", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 46, 
     "article_title": "How Well Can You Remember Christmas Lyrics?", 
     "author": {
@@ -2641,7 +2641,7 @@
   }, 
   {
     "url": "/lyapalater/hilary-duff-was-the-walking-queen-of-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 304, 
     "article_title": "Hilary Duff Was The Walking Queen Of 2014", 
     "author": {
@@ -2651,7 +2651,7 @@
   }, 
   {
     "url": "/emleschh/25-reasons-why-wine-is-your-soulmate-11s0y", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 160, 
     "article_title": "25 Reasons Wine Is Definitely Your Soulmate", 
     "author": {
@@ -2661,7 +2661,7 @@
   }, 
   {
     "url": "/oliviaroat/25-things-we-learned-from-julia-louis-dreyfus-in-2-ehzv", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 101, 
     "article_title": "25 Things We Learned From Julia Louis-Dreyfus In 2014", 
     "author": {
@@ -2671,7 +2671,7 @@
   }, 
   {
     "url": "/michelleregna/butt-ventriloquist", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 113, 
     "article_title": "Are You Beavis Or Butt-Head?", 
     "author": {
@@ -2681,7 +2681,7 @@
   }, 
   {
     "url": "/dorsey/hardest-tv-show-quiz-your-ears-will-ever-take", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 42, 
     "article_title": "The Hardest TV Show Quiz Your Ears Will Ever Take", 
     "author": {
@@ -2691,7 +2691,7 @@
   }, 
   {
     "url": "/nathanwpyle/new-york-city-squirrels-reflect-on-life-lessons-from-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 78, 
     "article_title": "7 New York City Squirrels Share What They Learned In 2014", 
     "author": {
@@ -2701,7 +2701,7 @@
   }, 
   {
     "url": "/awesomer/just-do-not-click", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 114, 
     "article_title": "Can We Guess What You\u00e2\u0080\u0099re Getting For Christmas?", 
     "author": {
@@ -2711,7 +2711,7 @@
   }, 
   {
     "url": "/ryanhatesthis/much-better-than-a-flashmob-tbh", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1156, 
     "article_title": "This Guy Adorably Proposed To His Unsuspecting Girlfriend In A Photo Booth", 
     "author": {
@@ -2721,7 +2721,7 @@
   }, 
   {
     "url": "/kaelintully/kitteh-roll-up-the-partition-please", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 221, 
     "article_title": "17 Moments During The Holidays All Single People Understand", 
     "author": {
@@ -2731,7 +2731,7 @@
   }, 
   {
     "url": "/kristinharris/ian-harding-cuddling-with-adorable-puppies", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 84, 
     "article_title": "\"Pretty Little Liars\" Star Ian Harding Cuddling With Adorable Puppies Is Actually Everything", 
     "author": {
@@ -2741,7 +2741,7 @@
   }, 
   {
     "url": "/crystalm4c5fe8e21/15-reasons-george-of-the-jungle-is-the-best-boyfri-16z2d", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 11, 
     "article_title": "15 Reasons George Of The Jungle Would Make The Best Boyfriend", 
     "author": {
@@ -2751,7 +2751,7 @@
   }, 
   {
     "url": "/alanamassey/women-who-are-completely-and-utterly-baffled-by-food", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 98, 
     "article_title": "20 Photos That Reveal How Confusing Food Is For Women", 
     "author": {
@@ -2761,7 +2761,7 @@
   }, 
   {
     "url": "/kristinalucarelli/a-brief-history-of-vanessa-the-stalker", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 396, 
     "article_title": "A Brief History Of Vanessa The Stalker\u00e2\u0080\u0099s Shameless Celebrity Photography", 
     "author": {
@@ -2771,7 +2771,7 @@
   }, 
   {
     "url": "/whitneyjefferson/the-lonely-island-reggie-watts-pass-the-mic", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 21, 
     "article_title": "The Lonely Island Has A Jam Session With Reggie Watts", 
     "author": {
@@ -2781,7 +2781,7 @@
   }, 
   {
     "url": "/kaelintully/i-creep-around-because-i-need-presents", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 212, 
     "article_title": "19 Puppies Who Already Found Their Christmas Presents", 
     "author": {
@@ -2791,7 +2791,7 @@
   }, 
   {
     "url": "/andreborges/putting-the-we-in-wwe", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 50, 
     "article_title": "23 Life Situations As Presented By WWE", 
     "author": {
@@ -2801,7 +2801,7 @@
   }, 
   {
     "url": "/andreborges/frank-miller-dark-knight-3", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 14, 
     "article_title": "Frank Miller And Scott Snyder Plan To Release A Third Instalment Of \"The Dark Knight\" Comic Book Series", 
     "author": {
@@ -2811,7 +2811,7 @@
   }, 
   {
     "url": "/andreborges/edgier-archie", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 86, 
     "article_title": "Archie Comics Are Re-launching Archie To be \"Edgier\" And Suited For Today's Readers", 
     "author": {
@@ -2821,7 +2821,7 @@
   }, 
   {
     "url": "/javiermoreno/which-foreign-actor-is-your-soulmate", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 474, 
     "article_title": "Which Foreign Actor Is Your Soulmate?", 
     "author": {
@@ -2831,7 +2831,7 @@
   }, 
   {
     "url": "/sheridanwatson/reasons-why-chiara-ferragni-will-be-your-style-icon-in-20", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 117, 
     "article_title": "16 Reasons Why Chiara Ferragni Should Be Your Style Icon In 2015", 
     "author": {
@@ -2841,7 +2841,7 @@
   }, 
   {
     "url": "/alexalvarez/find-your-people", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 149, 
     "article_title": "9 Simple Resolutions Introverts Can Make In 2015", 
     "author": {
@@ -2851,7 +2851,7 @@
   }, 
   {
     "url": "/sheridanwatson/bruno-mars-wore-curlers-on-the-voice-last-night-and-it-was-p", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 143, 
     "article_title": "Bruno Mars Wore Curlers On \"The Voice\" And It Was Perfect", 
     "author": {
@@ -2861,7 +2861,7 @@
   }, 
   {
     "url": "/kristinchirico/people-who-are-having-a-way-worse-christmas-than-you", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 288, 
     "article_title": "20 People Who Are Having A Way Worse Christmas Than You", 
     "author": {
@@ -2871,7 +2871,7 @@
   }, 
   {
     "url": "/juliapugachevsky/holidays-ranked-by-how-much-they-remind-you-of-your-loneline", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 73, 
     "article_title": "Holidays Ranked By How Lonely You Are", 
     "author": {
@@ -2881,7 +2881,7 @@
   }, 
   {
     "url": "/briangalindo/the-22-most-hilariously-awkward-christmas-autocorrect-fails", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 611, 
     "article_title": "The 22 Most Hilariously Awkward Christmas Autocorrect Fails Ever", 
     "author": {
@@ -2891,7 +2891,7 @@
   }, 
   {
     "url": "/mrsanta/mrs-claus-is-cheating", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 66, 
     "article_title": "12 Reasons To Suspect Mrs. Claus Is Cheating On You", 
     "author": {
@@ -2901,7 +2901,7 @@
   }, 
   {
     "url": "/sydneyscott/actors-to-watch-in-2015", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 166, 
     "article_title": "23 Actors To Watch In 2015", 
     "author": {
@@ -2911,7 +2911,7 @@
   }, 
   {
     "url": "/alexalvarez/but-i-shouldnt-buy-that-oy-to-the-world-thing-right", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 20, 
     "article_title": "20 Questions Interfaith Couples Have Over The Holidays", 
     "author": {
@@ -2921,7 +2921,7 @@
   }, 
   {
     "url": "/omarvillegas/life-lessons-you-learned-from-workaholics", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 113, 
     "article_title": "29 Life Lessons You Learned From \"Workaholics\"", 
     "author": {
@@ -2931,7 +2931,7 @@
   }, 
   {
     "url": "/lyapalater/celebrity-tweets-you-missed-today-898080", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 6, 
     "article_title": "8 Celebrity Tweets You Missed Today", 
     "author": {
@@ -2941,7 +2941,7 @@
   }, 
   {
     "url": "/mrsanta/reindeer-ranked", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 309, 
     "article_title": "The Best And Worst Reindeer Officially Ranked By Santa", 
     "author": {
@@ -2951,7 +2951,7 @@
   }, 
   {
     "url": "/samstryker/things-you-need-to-know-about-robbie-rogers", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 58, 
     "article_title": "28 Things You Need To Know About Robbie Rogers", 
     "author": {
@@ -2961,7 +2961,7 @@
   }, 
   {
     "url": "/tanyachen/23-signs-your-maple-syrup-obsession-is-out-of-control", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 28, 
     "article_title": "23 Signs Your Maple Syrup Obsession Is Out Of Control", 
     "author": {
@@ -2971,7 +2971,7 @@
   }, 
   {
     "url": "/lyapalater/the-top-9-photos-of-sharon-osbourne-after-her-tooth-fell-out", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 148, 
     "article_title": "The Top 9 Photos Of Sharon Osbourne After Her Tooth Fell Out On Live Television", 
     "author": {
@@ -2981,7 +2981,7 @@
   }, 
   {
     "url": "/sheridanwatson/the-bodyguard-comes-to-life", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 332, 
     "article_title": "ALERT: Jennifer Lawrence Has A Crazy Hot Bodyguard", 
     "author": {
@@ -2991,7 +2991,7 @@
   }, 
   {
     "url": "/ryancreed/alone-forever", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 201, 
     "article_title": "17 Couples Who Made You Hate Being Single In 2014", 
     "author": {
@@ -3001,7 +3001,7 @@
   }, 
   {
     "url": "/floperry/cant-see-you-there", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 91, 
     "article_title": "19 Ways To Deal With Your Haters", 
     "author": {
@@ -3011,7 +3011,7 @@
   }, 
   {
     "url": "/norbertobriceno/ace-ace-ace", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 326, 
     "article_title": "A Fan With Autism Gets Asked Out To Prom By Her Favorite Wrestler And It's Adorable", 
     "author": {
@@ -3021,7 +3021,7 @@
   }, 
   {
     "url": "/bustle/there-are-so-many-feelings-now-that-serial-is-over", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 0, 
     "article_title": "There Are So Many Feelings Now That 'Serial' Is Over", 
     "author": {
@@ -3031,7 +3031,7 @@
   }, 
   {
     "url": "/colinheasley/much-that-once-was-is-lost-for-none-now-live-who-remember-it", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 271, 
     "article_title": "Which Badass Middle-Earth Immortal Are You?", 
     "author": {
@@ -3041,7 +3041,7 @@
   }, 
   {
     "url": "/willvarner/18-signs-that-you-are-definitely-a-sniffer", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 55, 
     "article_title": "18 Signs That You Are Definitely A Sniffer", 
     "author": {
@@ -3051,7 +3051,7 @@
   }, 
   {
     "url": "/adamdavis/give-me-all-the-bacon-eggs-and-waffles-you-have", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 211, 
     "article_title": "The Ultimate Game Of \"Would You Rather\" For \"Parks And Rec\" Fans", 
     "author": {
@@ -3061,7 +3061,7 @@
   }, 
   {
     "url": "/mrloganrhoades/people-are-freaking-out-about-the-interview-not-being-releas", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 38, 
     "article_title": "People Are Freaking Out About \"The Interview\" Not Being Released", 
     "author": {
@@ -3071,7 +3071,7 @@
   }, 
   {
     "url": "/daves4/the-22-absolute-greatest-pranks-pulled-in-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 711, 
     "article_title": "The 22 Funniest Pranks Pulled In 2014", 
     "author": {
@@ -3081,7 +3081,7 @@
   }, 
   {
     "url": "/lyapalater/zac-efron-and-his-new-mustache-hold-the-luckiest-dog-in-the", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 262, 
     "article_title": "Zac Efron And His New Mustache Hold The Luckiest Dog In The World", 
     "author": {
@@ -3091,7 +3091,7 @@
   }, 
   {
     "url": "/gabrielsanchez/how-much-can-you-carry", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 213, 
     "article_title": "How Much Could You Carry If Your Life Depended On It?", 
     "author": {
@@ -3101,7 +3101,7 @@
   }, 
   {
     "url": "/staceygrant91/how-well-do-you-remember-the-hanukkah-episode-of-xpfm", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 35, 
     "article_title": "How Well Do You Remember The Hanukkah Episode Of \"Even Stevens?\"", 
     "author": {
@@ -3111,7 +3111,7 @@
   }, 
   {
     "url": "/mrloganrhoades/this-is-what-you-were-most-likely-to-google-in-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 83, 
     "article_title": "These Are The Things You Were Most Likely To Google In 2014", 
     "author": {
@@ -3121,7 +3121,7 @@
   }, 
   {
     "url": "/hnigatu/times-youve-declared-you-were-done-with-twitter", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 248, 
     "article_title": "19 Times You've Declared You Were Done With Twitter", 
     "author": {
@@ -3131,7 +3131,7 @@
   }, 
   {
     "url": "/emleschh/15-signs-you-are-big-ang-from-mob-wives-11s0y", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 115, 
     "article_title": "15 Signs You Are Big Ang From \"Mob Wives\"", 
     "author": {
@@ -3141,7 +3141,7 @@
   }, 
   {
     "url": "/chelseypippin/16-places-you-simply-must-visit-in-2015", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 122, 
     "article_title": "16 Spectacular Places To Travel In 2015", 
     "author": {
@@ -3151,7 +3151,7 @@
   }, 
   {
     "url": "/jenniferschaffer/new-york-is-always-hopeful", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 126, 
     "article_title": "21 Writers Who Got It Right About New York City", 
     "author": {
@@ -3161,7 +3161,7 @@
   }, 
   {
     "url": "/samimain/jingle-hell", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 68, 
     "article_title": "15 Dogs Who Are Stressing About Hosting Christmas Dinner", 
     "author": {
@@ -3171,7 +3171,7 @@
   }, 
   {
     "url": "/christianzamora/can-we-guess-what-your-guilty-pleasure-is", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 370, 
     "article_title": "Can We Guess What Your Guilty Pleasure Is?", 
     "author": {
@@ -3181,7 +3181,7 @@
   }, 
   {
     "url": "/danemcdonald7/13-reasons-why-amy-dunne-should-be-your-idol-uoc7", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 16, 
     "article_title": "13 Reasons Why Amy Dunne From \"Gone Girl\" Should Be Your Idol", 
     "author": {
@@ -3191,7 +3191,7 @@
   }, 
   {
     "url": "/lesterfeder/ugandans-wont-be-getting-a-new-anti-lgbt-law-for-christmas", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 0, 
     "article_title": "Ugandans Won't Be Getting A New Anti-LGBT Law For Christmas", 
     "author": {
@@ -3201,7 +3201,7 @@
   }, 
   {
     "url": "/arianelange/free-the-nipple", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 52, 
     "article_title": "A Feminist Filmmaker Explains Why She Wants To Be Topless", 
     "author": {
@@ -3211,7 +3211,7 @@
   }, 
   {
     "url": "/tasneemnashrulla/6-year-old-boy-and-three-women-killed-after-driver-rams-car", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 8, 
     "article_title": "Driver Pleads Not Guilty To Ramming Into Crowd Outside California Church, Killing 4", 
     "author": {
@@ -3221,7 +3221,7 @@
   }, 
   {
     "url": "/mollyhensleyclancy/obama-administration-releases-details-of-college-ratings-pla", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "Obama Administration Releases Details Of College Ratings Plan", 
     "author": {
@@ -3231,7 +3231,7 @@
   }, 
   {
     "url": "/tomnamako/reports-china-possibly-linked-to-sony-hack", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 37, 
     "article_title": "North Korean Government Responsible For Sony Hack, FBI Says", 
     "author": {
@@ -3241,7 +3241,7 @@
   }, 
   {
     "url": "/davidnoriega/this-former-anti-castro-militant-is-ready-to-end-the-embargo", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "This Former Anti-Castro Militant Is Ready To End The Embargo", 
     "author": {
@@ -3251,7 +3251,7 @@
   }, 
   {
     "url": "/dominicholden/transgender-student-files-federal-complaint-against-school-d", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 25, 
     "article_title": "Transgender Student Files Federal Complaint Against School District For Banning Him From The Boys Restroom", 
     "author": {
@@ -3261,7 +3261,7 @@
   }, 
   {
     "url": "/rosiegray/venezuela-hires-new-washington-lobbyists-as-obama-oks-sancti", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "Venezuela Hires New Washington Lobbyists As Obama O.K.'s Sanctions", 
     "author": {
@@ -3271,7 +3271,7 @@
   }, 
   {
     "url": "/franciswhittaker/fifa-agrees-to-publish-world-cup-corruption-report-findings", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1, 
     "article_title": "FIFA Agrees To Publish World Cup Corruption Report Findings", 
     "author": {
@@ -3281,7 +3281,7 @@
   }, 
   {
     "url": "/tasneemnashrulla/7th-heaven-actor-stephen-collins-says-hes-not-a-pedophile", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "\"7th Heaven\" Actor Stephen Collins Says He's Not A Pedophile", 
     "author": {
@@ -3291,7 +3291,7 @@
   }, 
   {
     "url": "/tomnamako/parents-of-aurora-shooter-james-holmes-plead-for-his-life", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 17, 
     "article_title": "Parents Of Aurora Shooter James Holmes Plead For His Life", 
     "author": {
@@ -3301,7 +3301,7 @@
   }, 
   {
     "url": "/alanwhite/a-clinically-dead-pregnant-woman-is-being-kept-on-life-suppo", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 72, 
     "article_title": "A Clinically Dead Pregnant Woman Is Being Kept On Life Support To Keep Her Unborn Baby Alive", 
     "author": {
@@ -3311,7 +3311,7 @@
   }, 
   {
     "url": "/franciswhittaker/dozens-of-militants-killed-after-school-massacre-pakistans-m", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1, 
     "article_title": "Dozens Of Militants Killed After School Massacre, Pakistan's Military Says", 
     "author": {
@@ -3321,7 +3321,7 @@
   }, 
   {
     "url": "/alanwhite/instagram-killed-off-thousands-of-spambots-and-people-are-go", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 206, 
     "article_title": "Instagram Killed Off Thousands Of Spambots And Kim Kardashian Now Has The Most Popular Account", 
     "author": {
@@ -3331,7 +3331,7 @@
   }, 
   {
     "url": "/claudiakoerner/australian-police-respond-to-multiple-bodies-found-in-cairns", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 117, 
     "article_title": "Mother Arrested For Stabbing Death Of 8 Children In Australia", 
     "author": {
@@ -3341,7 +3341,7 @@
   }, 
   {
     "url": "/claudiakoerner/panel-urges-higher-white-house-fence-stronger-leadership-at", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "Secret Service Report Urges Higher White House Fence, Stronger Leadership", 
     "author": {
@@ -3351,7 +3351,7 @@
   }, 
   {
     "url": "/jimdalrympleii/stephen-colbert-gets-massive-celebrity-send-off-in-colbert-r", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 94, 
     "article_title": "Stephen Colbert Gets Celebrity Send Off In \"Colbert Report\" Finale", 
     "author": {
@@ -3361,7 +3361,7 @@
   }, 
   {
     "url": "/josemorduna/inside-the-multibillion-dollar-business-of-keeping-me-out-of", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 20, 
     "article_title": "On The Fence", 
     "author": {
@@ -3371,7 +3371,7 @@
   }, 
   {
     "url": "/jimdalrympleii/sony-hack-called-a-national-security-issue-us-weighing-respo", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 19, 
     "article_title": "U.S. Calls Sony Hack A \"National Security\" Issue, Weighs Response", 
     "author": {
@@ -3381,7 +3381,7 @@
   }, 
   {
     "url": "/jimdalrympleii/how-should-the-us-respond-to-the-massive-sony-hack", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 21, 
     "article_title": "How Should The U.S. Respond To The Massive Sony Hack?", 
     "author": {
@@ -3391,7 +3391,7 @@
   }, 
   {
     "url": "/claudiakoerner/massive-downtown-los-angeles-fire-was-arson-officials-say", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 20, 
     "article_title": "Massive Downtown Los Angeles Fire Was Arson, Officials Say", 
     "author": {
@@ -3401,7 +3401,7 @@
   }, 
   {
     "url": "/richardhjames/a-woman-making-videos-in-her-barnsley-bedroom-has-become-an", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 34, 
     "article_title": "A Woman Making Videos In Her Bedroom Has Become An Internet Star In Japan", 
     "author": {
@@ -3411,7 +3411,7 @@
   }, 
   {
     "url": "/dominicholden/after-delay-nj-high-school-lets-transgender-student-use-boys", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "After Delay, NJ High School Lets Transgender Student Use Boys Restroom", 
     "author": {
@@ -3421,7 +3421,7 @@
   }, 
   {
     "url": "/andrewkaczynski/america-murica", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 25, 
     "article_title": "GOP Senator Wants To Host Re-Election Fundraiser At A Screening Of The Interview", 
     "author": {
@@ -3431,7 +3431,7 @@
   }, 
   {
     "url": "/evanmcsan/white-house-police-taskforce", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1, 
     "article_title": "As Police Defend Themselves, White House Promises Policy Recommendations In 2015", 
     "author": {
@@ -3441,7 +3441,7 @@
   }, 
   {
     "url": "/jasonwells/nebraska-and-oklahoma-file-lawsuit-to-overturn-colorados-leg", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 47, 
     "article_title": "Nebraska And Oklahoma File Lawsuit To Overturn Colorado's Legal Marijuana Law", 
     "author": {
@@ -3451,7 +3451,7 @@
   }, 
   {
     "url": "/sheerafrenkel/sony-hackers-used-widely-available-malware-cybersecurity-exp", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 18, 
     "article_title": "Sony Hackers Used Widely Available Malware, Cybersecurity Experts Say", 
     "author": {
@@ -3461,7 +3461,7 @@
   }, 
   {
     "url": "/andrewkaczynski/gop-congressman-16-to-18-members-meeting-to-oppose-boehner-a", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 7, 
     "article_title": "GOP Congressman: 16 To 18 Members Meeting To Oppose Boehner As Speaker", 
     "author": {
@@ -3471,7 +3471,7 @@
   }, 
   {
     "url": "/lindseyadler/the-chemist-charged-with-supplying-a-rods-dealer-with-perfor", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "The Chemist Charged With Supplying A-Rod's Dealer With Performance Enhancing Drugs Pleads Guilty", 
     "author": {
@@ -3481,7 +3481,7 @@
   }, 
   {
     "url": "/maryanngeorgantopoulos/sony-producer-says-world-is-racist", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 51, 
     "article_title": "Sony Producer Says Black Actors Shouldn\u00e2\u0080\u0099t Have Lead Roles Because International Audiences Are Racist", 
     "author": {
@@ -3491,7 +3491,7 @@
   }, 
   {
     "url": "/tasneemnashrulla/13-year-old-girl-who-stabbed-classmate-in-slender-man-case-f", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 65, 
     "article_title": "Two Girls Who Stabbed Classmate In Slender Man Case Found Competent To Stand Trial", 
     "author": {
@@ -3501,7 +3501,7 @@
   }, 
   {
     "url": "/evanmcsan/obamas-republican-allies-on-cuba", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1, 
     "article_title": "Obama's Republican Allies On Cuba", 
     "author": {
@@ -3511,7 +3511,7 @@
   }, 
   {
     "url": "/rossalynwarren/men-are-calling-themselves-meninists-to-take-a-stand-against", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 391, 
     "article_title": "Men Are Calling Themselves \"Meninists\" To Take A Stand Against Feminism", 
     "author": {
@@ -3521,7 +3521,7 @@
   }, 
   {
     "url": "/chrisgeidner/justice-department-announces-reversal-on-litigating-transgen", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 14, 
     "article_title": "Justice Department Will Now Support Transgender Discrimination Claims In Litigation", 
     "author": {
@@ -3531,7 +3531,7 @@
   }, 
   {
     "url": "/andrewkaczynski/ted-cruz-i-can-only-laugh-when-obama-clinton-discuss-income", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 16, 
     "article_title": "Ted Cruz: \"I Can Only Laugh\" When Obama, Clinton Discuss Income Inequality Since They Made It Worse", 
     "author": {
@@ -3541,7 +3541,7 @@
   }, 
   {
     "url": "/maryanngeorgantopoulos/texas-movie-theater-replaces-the-interview-with-team-america", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 26, 
     "article_title": "Paramount Orders Movie Theaters To Cancel \"Team America\" Screenings", 
     "author": {
@@ -3551,7 +3551,7 @@
   }, 
   {
     "url": "/alanwhite/a-plus-size-woman-asked-21-photoshop-experts-around-the-worl", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 195, 
     "article_title": "A Plus-Size Woman Asked Photoshop Experts Around The World To Make Her Beautiful And Only 3 Slimmed Her Down", 
     "author": {
@@ -3561,7 +3561,7 @@
   }, 
   {
     "url": "/charliewarzel/this-minecraft-community-is-saving-the-lives-of-children-wit", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 51, 
     "article_title": "This \"Minecraft\" Community Is Saving The Lives Of Children With Autism", 
     "author": {
@@ -3571,7 +3571,7 @@
   }, 
   {
     "url": "/andrewkaczynski/rand-paul-and-ron-paul-both-say-the-cuba-policy-clearly-hasn", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 3, 
     "article_title": "Rand Paul And Ron Paul Both Say The Cuba Policy Clearly Hasn't Worked", 
     "author": {
@@ -3581,7 +3581,7 @@
   }, 
   {
     "url": "/mikehayes/tsarnaev-appears-in-boston-court", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 28, 
     "article_title": "Boston Bombing Suspect Appears In Court For First Time Since 2013", 
     "author": {
@@ -3591,7 +3591,7 @@
   }, 
   {
     "url": "/tasneemnashrulla/us-sues-new-york-city-over-excessive-violence-at-rikers-isla", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 7, 
     "article_title": "U.S. Sues New York City Over Excessive Violence At Rikers Island Jail", 
     "author": {
@@ -3601,7 +3601,7 @@
   }, 
   {
     "url": "/davidnoriega/has-the-cuban-exile-movement-finally-run-out-of-breath", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 7, 
     "article_title": "Has The Cuban Exile Movement Finally Run Out Of Breath?", 
     "author": {
@@ -3611,7 +3611,7 @@
   }, 
   {
     "url": "/franciswhittaker/defiant-putin-says-russias-economic-woes-are-not-payback-for", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 7, 
     "article_title": "Defiant Putin Says Russia's Economic Woes Are Not Payback For Annexing Crimea", 
     "author": {
@@ -3621,7 +3621,7 @@
   }, 
   {
     "url": "/sapna/walmart-amazon-among-chains-selling-illegal-toy-guns-ny-atto", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "Walmart, Amazon Among Chains Selling Illegal Toy Guns, NY Attorney General Says", 
     "author": {
@@ -3631,7 +3631,7 @@
   }, 
   {
     "url": "/maryanngeorgantopoulos/boko-haram-reportedly-kidnaps-more-than-100-people", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 0, 
     "article_title": "Boko Haram Reportedly Kidnaps More Than 100 People", 
     "author": {
@@ -3641,7 +3641,7 @@
   }, 
   {
     "url": "/tomnamako/heres-how-alan-gross-reacted-the-moment-he-crossed-from-cuba", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1, 
     "article_title": "Here's How Alan Gross Reacted The Moment He Crossed From Cuba To America", 
     "author": {
@@ -3651,7 +3651,7 @@
   }, 
   {
     "url": "/tomnamako/obama-tells-americans-to-go-to-the-movies", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 22, 
     "article_title": "Obama Tells Americans To \"Go To The Movies\"", 
     "author": {
@@ -3661,7 +3661,7 @@
   }, 
   {
     "url": "/mariahsummers/ipos-skyrocket", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "IPOs Skyrocket In Record-Breaking 2014", 
     "author": {
@@ -3671,7 +3671,7 @@
   }, 
   {
     "url": "/jimdalrympleii/rich-americans-are-getting-richer-while-everyone-else-falls", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 40, 
     "article_title": "Rich Americans Are Getting Richer, While Everyone Else Falls Behind", 
     "author": {
@@ -3681,7 +3681,7 @@
   }, 
   {
     "url": "/franciswhittaker/uber-driver-in-massachusetts-accused-of-kidnapping-and-rapin", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 5, 
     "article_title": "Uber Driver In Massachusetts Accused Of Kidnapping And Raping Rider", 
     "author": {
@@ -3691,7 +3691,7 @@
   }, 
   {
     "url": "/jimdalrympleii/would-you-have-gone-to-see-the-interview", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 39, 
     "article_title": "Would You Have Gone To See \"The Interview\"?", 
     "author": {
@@ -3701,7 +3701,7 @@
   }, 
   {
     "url": "/alanwhite/hundreds-of-muslims-held-a-candlelit-vigil-in-london-for-the", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 22, 
     "article_title": "Hundreds Of Muslims Held A Candlelight Vigil In London For The Peshawar School Massacre Victims", 
     "author": {
@@ -3711,7 +3711,7 @@
   }, 
   {
     "url": "/andrewkaczynski/jeb-bush-paid-by-bank-that-violated-cuba-sanctions", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1, 
     "article_title": "Jeb Bush Paid By Bank That Violated Cuba Sanctions", 
     "author": {
@@ -3721,7 +3721,7 @@
   }, 
   {
     "url": "/mbvd/meteorologist-shot-outside-texas-tv-station-gunman-at-large", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 19, 
     "article_title": "Meteorologist Shot Outside Texas TV Station, Gunman At Large", 
     "author": {
@@ -3731,7 +3731,7 @@
   }, 
   {
     "url": "/darrensands/democratic-public-relations-firm-skdk-helped-freed-cuban-det", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 0, 
     "article_title": "Democratic Public Relations Firm SKDK Helped American Freed By Cuba", 
     "author": {
@@ -3741,7 +3741,7 @@
   }, 
   {
     "url": "/jimdalrympleii/reports-north-korea-hacked-sony", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 65, 
     "article_title": "U.S. Officials Reportedly Tie North Korea To Massive Sony Hack", 
     "author": {
@@ -3751,7 +3751,7 @@
   }, 
   {
     "url": "/hayesbrown/heres-a-bunch-of-pictures-of-fidel-castro-chilling-in-new-yo", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 22, 
     "article_title": "Here's A Bunch Of Pictures Of Fidel Castro Chilling In New York City", 
     "author": {
@@ -3761,7 +3761,7 @@
   }, 
   {
     "url": "/lesterfeder/at-least-594-lgbt-people-were-murdered-in-the-americas-in-a", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 20, 
     "article_title": "At Least 594 LGBT People Were Murdered In The Americas In A 15-Month Period", 
     "author": {
@@ -3771,7 +3771,7 @@
   }, 
   {
     "url": "/andrewkaczynski/house-foreign-affairs-chairman-average-cuban-wont-benefit-fr", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "House Foreign Affairs Chairman: Average Cuban Won't Benefit From Better U.S. Relations", 
     "author": {
@@ -3781,7 +3781,7 @@
   }, 
   {
     "url": "/rosiegray/daughter-of-famed-cuban-dissident-criticizes-obamas-new-cuba", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 5, 
     "article_title": "Daughter Of Famed Cuban Dissident Criticizes Obama's New Cuba Policy", 
     "author": {
@@ -3791,7 +3791,7 @@
   }, 
   {
     "url": "/adambvary/the-interview-pulled-from-theaters", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 229, 
     "article_title": "Sony Pictures Is Looking For Alternative Platforms To Release \u201cThe Interview\u201d", 
     "author": {
@@ -3801,7 +3801,7 @@
   }, 
   {
     "url": "/adriancarrasquillo/this-is-how-cuban-americans-reacted-to-president-obamas-anno", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 5, 
     "article_title": "This Is How Cuban-Americans Reacted To President Obama's Announcement On U.S.-Cuba Relations", 
     "author": {
@@ -3811,7 +3811,7 @@
   }, 
   {
     "url": "/katherinemiller/shepard-smith-are-we-about-to-ruin-cuba", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 0, 
     "article_title": "Shepard Smith: Are We About To \"Ruin\" Cuba?", 
     "author": {
@@ -3821,7 +3821,7 @@
   }, 
   {
     "url": "/mariahsummers/13-things-you-should-never-say-on-video-about-your-publicly", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 0, 
     "article_title": "13 Things You Should Never Say On Video About Your Publicly Traded Company", 
     "author": {
@@ -3831,7 +3831,7 @@
   }, 
   {
     "url": "/mattlynley/snapchat-ceo-on-leaked-emails-i-felt-like-i-was-going-to-cry", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 17, 
     "article_title": "Snapchat CEO On Leaked Emails: \"I Felt Like I Was Going To Cry All Morning\"", 
     "author": {
@@ -3841,7 +3841,7 @@
   }, 
   {
     "url": "/johanabhuiyan/in-the-wake-of-rape-in-india-uber-publishes-a-safety-report", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 3, 
     "article_title": "In The Wake Of Rape In India, Uber Publishes A Safety Report", 
     "author": {
@@ -3851,7 +3851,7 @@
   }, 
   {
     "url": "/andrewkaczynski/chaffetz-cuba-travel-ban", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 4, 
     "article_title": "GOP Congressman: Americans Should Be Allowed To Travel To Cuba, Ban \"Ridiculous\"", 
     "author": {
@@ -3861,7 +3861,7 @@
   }, 
   {
     "url": "/davidmack/new-york-to-become-first-shale-state-to-ban-fracking", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 29, 
     "article_title": "New York To Become First Shale State To Ban Fracking", 
     "author": {
@@ -3871,7 +3871,7 @@
   }, 
   {
     "url": "/evanmcsan/when-is-obama-visiting-cuba", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "White House Won't Rule Out Presidential Visit To Cuba", 
     "author": {
@@ -3881,7 +3881,7 @@
   }, 
   {
     "url": "/adolfoflores/police-search-for-gunmen-who-shot-three-men-in-la-neighborho", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 6, 
     "article_title": "One Of Three Men Gunned Down In L.A. Dies, Three People Detained", 
     "author": {
@@ -3891,7 +3891,7 @@
   }, 
   {
     "url": "/ryanhatesthis/elementary-school-replaces-blind-childs-cane-with-noodle", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 191, 
     "article_title": "An Elementary School Took Away A Blind Child's Cane And Gave Him A Pool Noodle To Punish Him", 
     "author": {
@@ -3901,7 +3901,7 @@
   }, 
   {
     "url": "/andrewkaczynski/congressman-peter-king-really-hates-ted-cruz", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 7, 
     "article_title": "Congressman Peter King Really Hates Ted Cruz", 
     "author": {
@@ -3911,7 +3911,7 @@
   }, 
   {
     "url": "/lindseyadler/49ers-ray-mcdonald-being-investigated-for-rape", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1, 
     "article_title": "Ray McDonald, Under Investigation For Sexual Assault, Released From 49ers", 
     "author": {
@@ -3921,7 +3921,7 @@
   }, 
   {
     "url": "/hayesbrown/this-is-what-obamas-huge-announcement-on-cuba-really-means", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 32, 
     "article_title": "This Is What Obama's Huge Announcement On Cuba Really Means", 
     "author": {
@@ -3931,7 +3931,7 @@
   }, 
   {
     "url": "/miriamelder/everyone-is-making-the-exact-same-joke-about-cuba", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 15, 
     "article_title": "Everyone Is Making The Exact Same Joke About Cuba", 
     "author": {
@@ -3941,7 +3941,7 @@
   }, 
   {
     "url": "/katenocera/democratic-congressman-recalls-emotional-meeting-between-ala", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "Democratic Congressman Recalls Emotional Meeting Between Alan Gross And John Kerry", 
     "author": {
@@ -3951,7 +3951,7 @@
   }, 
   {
     "url": "/tasneemnashrulla/new-york-public-defenders-walk-out-of-court-protesting-eric", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 6, 
     "article_title": "New York Public Defenders Walk Out Of Court Protesting Eric Garner's Death", 
     "author": {
@@ -3961,7 +3961,7 @@
   }, 
   {
     "url": "/rosiegray/republicans-threaten-to-block-future-us-embassy-ambassador-i", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 13, 
     "article_title": "Republicans Threaten To Block Future U.S. Embassy, Ambassador In Cuba", 
     "author": {
@@ -3971,7 +3971,7 @@
   }, 
   {
     "url": "/mikegiglio/how-to-get-a-fake-syrian-id", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 16, 
     "article_title": "How To Get A Fake Syrian ID", 
     "author": {
@@ -3981,7 +3981,7 @@
   }, 
   {
     "url": "/alanwhite/this-man-spent-17-years-in-jail-for-a-crime-he-didnt-commit", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 33, 
     "article_title": "This Man Spent 17 Years In Jail For A Crime He Didn't Commit And The Government Is Chasing Him For Legal Costs", 
     "author": {
@@ -3991,7 +3991,7 @@
   }, 
   {
     "url": "/andrewkaczynski/democratic-superpac-american-bridge-squatting-on-jeb-bush-20", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 0, 
     "article_title": "Democratic SuperPAC American Bridge Squatting On Jeb Bush 2016 Domains", 
     "author": {
@@ -4001,7 +4001,7 @@
   }, 
   {
     "url": "/mollyhensleyclancy/in-battle-against-for-profit-college-sale-activists-turn-to", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 0, 
     "article_title": "In Battle Against For-Profit College Sale, Activists Turn To The States", 
     "author": {
@@ -4011,7 +4011,7 @@
   }, 
   {
     "url": "/lisatozzi/live-video-obama-on-restoring-diplomatic-relations-with-cuba", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 3, 
     "article_title": "Live Video: Obama On Restoring Diplomatic Relations With Cuba", 
     "author": {
@@ -4021,7 +4021,7 @@
   }, 
   {
     "url": "/evanmcsan/white-house-credits-pope-francis-for-facilitating-cuba-deal", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 14, 
     "article_title": "White House Credits Pope Francis For Facilitating Cuba Deal", 
     "author": {
@@ -4031,7 +4031,7 @@
   }, 
   {
     "url": "/matthewzeitlin/terrence-malick-sends-emails-by-having-an-assistant-scan-his", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 6, 
     "article_title": "Terrence Malick Sends Emails By Having An Assistant Scan His Typed Letters", 
     "author": {
@@ -4041,7 +4041,7 @@
   }, 
   {
     "url": "/mariahsummers/the-future-of-olive-garden", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 17, 
     "article_title": "The Future Of Olive Garden: A Takeout Container Full Of Bread Sticks", 
     "author": {
@@ -4051,7 +4051,7 @@
   }, 
   {
     "url": "/richardhjames/a-chinese-giant-salamander-has-arrived-in-london-and-its-cau", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 15, 
     "article_title": "A Chinese Giant Salamander Has Arrived In London And It's Causing Quite A Stir", 
     "author": {
@@ -4061,7 +4061,7 @@
   }, 
   {
     "url": "/jtes/georgia-prison-rape-zahara-green", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 41, 
     "article_title": "Is A Georgia Prison Trying To Cover Up The Rape Of A Trans Woman?", 
     "author": {
@@ -4071,7 +4071,7 @@
   }, 
   {
     "url": "/alanwhite/facebook-is-freaking-out-over-this-epic-rant-about-social-me", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 22, 
     "article_title": "Facebook Is Freaking Out Over This Epic Rant About Social Media From Megatron", 
     "author": {
@@ -4081,7 +4081,7 @@
   }, 
   {
     "url": "/skarlan/two-women-who-met-as-ferguson-protesters-get-married", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 242, 
     "article_title": "Two Women Who Met As Ferguson Protesters Get Married", 
     "author": {
@@ -4091,7 +4091,7 @@
   }, 
   {
     "url": "/maryanngeorgantopoulos/here-are-some-of-the-victims-of-the-pakistan-school-attack", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 56, 
     "article_title": "Here Are Some Of The Victims Of The Pakistan School Attack", 
     "author": {
@@ -4101,7 +4101,7 @@
   }, 
   {
     "url": "/alanwhite/tim-burton-said-hes-in-for-beetlejuice-2-as-is-winona-ryder", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 123, 
     "article_title": "Tim Burton Has Said Both He And Winona Ryder Are In For \"Beetlejuice 2\"", 
     "author": {
@@ -4111,7 +4111,7 @@
   }, 
   {
     "url": "/rosiegray/reports-alan-gross-released-from-lockup-in-cuba", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 60, 
     "article_title": "U.S. And Cuba To Open Diplomatic Relations In Historic Agreement", 
     "author": {
@@ -4121,7 +4121,7 @@
   }, 
   {
     "url": "/franciswhittaker/insurgents-storm-afghan-bank-killing-10-people", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 0, 
     "article_title": "Insurgents Storm Afghan Bank, Killing 10 People", 
     "author": {
@@ -4131,7 +4131,7 @@
   }, 
   {
     "url": "/rossalynwarren/a-pub-in-london-is-cooking-a-free-christmas-dinner-for-the-h", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 41, 
     "article_title": "A Pub In London Is Cooking A Free Christmas Dinner For The Homeless", 
     "author": {
@@ -4141,7 +4141,7 @@
   }, 
   {
     "url": "/imaansheikh/dawood-ibrahim-the-sole-surviving-ninth-grader", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 77, 
     "article_title": "Faulty Alarm Clock Saves Ninth-Grader From Peshawar School Attack", 
     "author": {
@@ -4151,7 +4151,7 @@
   }, 
   {
     "url": "/sapna/american-apparel-executives-fight-for-ousted-ceo-dov-charney", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 4, 
     "article_title": "American Apparel Executives Fight For Ousted CEO Dov Charney", 
     "author": {
@@ -4161,7 +4161,7 @@
   }, 
   {
     "url": "/andrewkaczynski/jeb-bush-thinks-he-can-persuade-the-republican-bas", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 4, 
     "article_title": "Jeb Bush Thinks He Can Persuade The Republican Base To Get Behind Immigration Legislation", 
     "author": {
@@ -4171,7 +4171,7 @@
   }, 
   {
     "url": "/jasonwells/san-diego-state-university-bans-fraternity-for-harassing-ant", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 20, 
     "article_title": "San Diego State University Bans Fraternity For Harassing Anti-Rape Marchers", 
     "author": {
@@ -4181,7 +4181,7 @@
   }, 
   {
     "url": "/matthewzeitlin/emails-suggest-sonys-lynton-wanted-to-be-president-of-nyu", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1, 
     "article_title": "Emails Suggest Sony's Lynton Wanted To Be President Of NYU", 
     "author": {
@@ -4191,7 +4191,7 @@
   }, 
   {
     "url": "/mikehayes/cleveland-police-chief-no-apology-andrew-hawkins", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 0, 
     "article_title": "Cleveland Police Say No Apology Is Necessary From Andrew Hawkins For \"Justice For Tamir Rice\" Shirt", 
     "author": {
@@ -4201,7 +4201,7 @@
   }, 
   {
     "url": "/lindseyadler/beau-bennett-is-the-15th-nhl-player-to-be-diagnosed-with-the", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 10, 
     "article_title": "Beau Bennett Is The 15th NHL Player To Be Diagnosed With The Mumps", 
     "author": {
@@ -4211,7 +4211,7 @@
   }, 
   {
     "url": "/matthewzeitlin/netflix-sony", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1, 
     "article_title": "Netflix CEO Reed Hastings Tried To Recruit Sony Entertainment CEO To His Board", 
     "author": {
@@ -4221,7 +4221,7 @@
   }, 
   {
     "url": "/dominicholden/michigans-state-senate-leader-expects-religious-freedom-bill", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 8, 
     "article_title": "Michigan's State Senate Leader Expects Religious Freedom Bill To Die", 
     "author": {
@@ -4231,7 +4231,7 @@
   }, 
   {
     "url": "/alisonvingiano/no-charges-for-bill-cosby-in-decades-old-molestation-claim", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 17, 
     "article_title": "No Charges For Bill Cosby In Claim That He Molested A 15-Year-Old In 1974", 
     "author": {
@@ -4241,7 +4241,7 @@
   }, 
   {
     "url": "/tomgara/russias-meltdown-will-shake-the-world-from-tajikistan-to-tok", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 28, 
     "article_title": "Russia's Meltdown Will Shake The World, From Tajikistan To Tokyo", 
     "author": {
@@ -4251,7 +4251,7 @@
   }, 
   {
     "url": "/sapna/american-apparel-officially-fires-dov-charney-as-consultant", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 10, 
     "article_title": "American Apparel Officially Fires Dov Charney As Consultant, Names New CEO", 
     "author": {
@@ -4261,7 +4261,7 @@
   }, 
   {
     "url": "/johanabhuiyan/sidecar-wants-you-to-know-you-can-request-a-female-driver", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 15, 
     "article_title": "Sidecar Wants You To Know You Can Request A Female Driver", 
     "author": {
@@ -4271,7 +4271,7 @@
   }, 
   {
     "url": "/chrisgeidner/federal-appeals-court-denies-transgender-inmates-surgery-cla", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 8, 
     "article_title": "Federal Appeals Court Denies Transgender Inmate's Surgery Claim", 
     "author": {
@@ -4281,7 +4281,7 @@
   }, 
   {
     "url": "/jacelacob/seth-rogen-and-james-franco-cancel-all-press-appearances", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 128, 
     "article_title": "Theater Chains Pull \u201cThe Interview,\u201d Press Appearances Canceled Amid Threats", 
     "author": {
@@ -4291,7 +4291,7 @@
   }, 
   {
     "url": "/johnstanton/obama-administration-accused-of-violating-asylum-seekers-hum", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 7, 
     "article_title": "Obama Administration Accused Of Violating Asylum Seekers' Human Rights In Class Action Lawsuit", 
     "author": {
@@ -4301,7 +4301,7 @@
   }, 
   {
     "url": "/tasneemnashrulla/sony-sued-by-employees-for-massive-data-breach", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "Sony Sued By Employees For Massive Data Breach", 
     "author": {
@@ -4311,7 +4311,7 @@
   }, 
   {
     "url": "/mollyhensleyclancy/whistleblower-suit-alleges-for-profit-college-tricked-vetera", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 0, 
     "article_title": "Whistleblower Suit Alleges For-Profit College Tricked Veterans Into Debt", 
     "author": {
@@ -4321,7 +4321,7 @@
   }, 
   {
     "url": "/matthewzeitlin/sony-hackers-threaten-movie-theaters-showing-the-interview", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 20, 
     "article_title": "Sony Hackers Threaten Movie Theaters Showing \"The Interview\"", 
     "author": {
@@ -4331,7 +4331,7 @@
   }, 
   {
     "url": "/andrewkaczynski/mother-calls-into-c-span-to-lecture-her-fighting-political-s", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 66, 
     "article_title": "Mother Calls Into C-SPAN To Lecture Her Fighting Political Strategist Sons", 
     "author": {
@@ -4341,7 +4341,7 @@
   }, 
   {
     "url": "/jarettwieselman/robin-williams-was-the-most-googled-term-of-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 9, 
     "article_title": "\"Robin Williams\" Was The Most Googled Term Of 2014", 
     "author": {
@@ -4351,7 +4351,7 @@
   }, 
   {
     "url": "/alanwhite/this-man-can-draw-incredible-pictures-of-cities-from-memory", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 40, 
     "article_title": "This Man Can Draw Breathtaking Pictures Of Cities From Memory", 
     "author": {
@@ -4361,7 +4361,7 @@
   }, 
   {
     "url": "/alisonvingiano/two-car-bombs-kill-25-in-yemen-15-of-them-children", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 0, 
     "article_title": "Two Car Bombs Kill 25 In Yemen, 15 Of Them Children", 
     "author": {
@@ -4371,7 +4371,7 @@
   }, 
   {
     "url": "/charliewarzel/a-delta-airlines-security-flaw-lets-you-check-in-to-flights", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 9, 
     "article_title": "A Delta Airlines Security Flaw Lets You Check In To Flights As Other People", 
     "author": {
@@ -4381,7 +4381,7 @@
   }, 
   {
     "url": "/mikehayes/vatican-concludes-six-year-investigation-of-us-nuns-feminism", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 5, 
     "article_title": "Vatican Concludes Six-Year Investigation Of U.S. Nuns' Feminism", 
     "author": {
@@ -4391,7 +4391,7 @@
   }, 
   {
     "url": "/franciswhittaker/fifa-dismisses-complaint-by-lawyer-who-investigated-world-cu", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 3, 
     "article_title": "FIFA Dismisses Complaint By Lawyer Who Investigated World Cup Corruption", 
     "author": {
@@ -4401,7 +4401,7 @@
   }, 
   {
     "url": "/maryanngeorgantopoulos/911-detainees-at-guantanamo-got-copy-of-cia-torture-report", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 1, 
     "article_title": "9/11 Detainees At Guantanamo Got Copy Of CIA Torture Report", 
     "author": {
@@ -4411,7 +4411,7 @@
   }, 
   {
     "url": "/tasneemnashrulla/russian-ruble-crashes-to-historic-lows", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 6, 
     "article_title": "Russian Ruble Crashes To Historic Lows", 
     "author": {
@@ -4421,7 +4421,7 @@
   }, 
   {
     "url": "/davidmack/jeb-bush-actively-exploring-possibility-running-president", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 33, 
     "article_title": "Jeb Bush \"Actively\" Exploring The Possibility Of Running For President", 
     "author": {
@@ -4431,7 +4431,7 @@
   }, 
   {
     "url": "/sheerafrenkel/more-than-1000-schools-in-pakistan-have-been-attacked-by-the", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 17, 
     "article_title": "More Than 1,000 Schools In Pakistan Have Been Attacked By The Taliban In The Last Five Years", 
     "author": {
@@ -4441,7 +4441,7 @@
   }, 
   {
     "url": "/alanwhite/a-nine-year-old-girl-sent-this-beautiful-letter-to-her-teach", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 376, 
     "article_title": "A 9-Year-Old Girl Sent This Beautiful Letter To Her Teacher After He Came Out As Gay", 
     "author": {
@@ -4451,7 +4451,7 @@
   }, 
   {
     "url": "/maryanngeorgantopoulos/texas-police-officer-uses-stun-gun-on-elderly-man-over-inspe", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 22, 
     "article_title": "Texas Police Officer Placed On Paid Leave For Using Stun Gun", 
     "author": {
@@ -4461,7 +4461,7 @@
   }, 
   {
     "url": "/mariahsummers/what-happens-to-your-stock-when-a-hedge-fund-takes-over", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 3, 
     "article_title": "What Happens To Your Stock When A Hedge Fund Takes Over", 
     "author": {
@@ -4471,7 +4471,7 @@
   }, 
   {
     "url": "/alanwhite/this-guy-has-203-characters-from-the-simpsons-tattooed-on-hi", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 35, 
     "article_title": "This Guy Has A Huge Tattoo With Over 200 Simpsons Characters On His Back", 
     "author": {
@@ -4481,7 +4481,7 @@
   }, 
   {
     "url": "/richardhjames/frozen-director-says-sorry-to-parents-sick-of-hearing-let-it", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 45, 
     "article_title": "\"Frozen\" Director Apologises To Parents Sick Of Hearing \u00e2\u0080\u009cLet It Go\u00e2\u0080\u009d", 
     "author": {
@@ -4491,7 +4491,7 @@
   }, 
   {
     "url": "/franciswhittaker/sydney-gunman-not-on-australian-terror-watch-list", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 4, 
     "article_title": "Sydney Gunman Not On Australian \"Terror Watch List\"", 
     "author": {
@@ -4501,7 +4501,7 @@
   }, 
   {
     "url": "/franciswhittaker/peshawar-school-attack", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 140, 
     "article_title": "Grieving Pakistan Reinstates Death Penalty Following School Massacre", 
     "author": {
@@ -4511,7 +4511,7 @@
   }, 
   {
     "url": "/adriancarrasquillo/this-is-what-latinos-in-the-us-searched-on-google-in-2014", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 13, 
     "article_title": "This Is What Latinos In The U.S. Searched On Google In 2014", 
     "author": {
@@ -4521,7 +4521,7 @@
   }, 
   {
     "url": "/mbvd/new-york-magazine-story-high-school-boy-72-million-fake", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 27, 
     "article_title": "New York Magazine Story Of Teen Who Earned $72 Million Trading Stocks Was Made Up", 
     "author": {
@@ -4531,7 +4531,7 @@
   }, 
   {
     "url": "/chrisgeidner/stage-is-set-for-supreme-court-marriage-showdown-if-the-just", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 6, 
     "article_title": "Stage Is Set For Supreme Court Marriage Showdown \u00e2\u0080\u0094 If The Justices Want It", 
     "author": {
@@ -4541,7 +4541,7 @@
   }, 
   {
     "url": "/matthewzeitlin/unnecessarily-antagonistic-sony-execs-debate-merits-of-kim-j", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 25, 
     "article_title": "\"Unnecessarily Antagonistic?\" Sony Execs Debate Merits Of Kim Jong Un Assassination Comedy", 
     "author": {
@@ -4551,7 +4551,7 @@
   }, 
   {
     "url": "/jasonwells/st-louis-woman-made-up-story-of-being-attacked-by-black-teen", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 46, 
     "article_title": "St. Louis Woman Made Up Story Of Being Attacked By Black Teens, Police Say", 
     "author": {
@@ -4561,7 +4561,7 @@
   }, 
   {
     "url": "/jacobfischler/uber-said-it-accessed-buzzfeed-news-reporters-information-be", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 7, 
     "article_title": "Uber Said It Accessed BuzzFeed News Reporter's Information Because She Was \"Late\"", 
     "author": {
@@ -4571,7 +4571,7 @@
   }, 
   {
     "url": "/jacobfischler/senate-confirms-obamas-controversial-surgeon-general-nominee", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 30, 
     "article_title": "Senate Confirms Obama's Controversial Surgeon General Nominee", 
     "author": {
@@ -4581,7 +4581,7 @@
   }, 
   {
     "url": "/dominicholden/killing-of-transgender-woman-charged-as-manslaughter-in-geor", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 3, 
     "article_title": "Grand Jury To Decide Whether To Indict In Killing of Transgender Woman", 
     "author": {
@@ -4591,7 +4591,7 @@
   }, 
   {
     "url": "/hayesbrown/cant-sleep-government-clown-will-eat-me", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 7, 
     "article_title": "The NSA Used To Have A Clown Club And It Was As Weird As It Sounds", 
     "author": {
@@ -4601,7 +4601,7 @@
   }, 
   {
     "url": "/mikehayes/family-of-man-fatally-shot-in-walmart-to-sue-company-and-pol", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 33, 
     "article_title": "Wal-Mart And Police Sued After Man Fatally Shot In Ohio Store", 
     "author": {
@@ -4611,7 +4611,7 @@
   }, 
   {
     "url": "/jasonwells/bill-cosbys-wife-fiercely-defends-husband-blasts-media-cover", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 23, 
     "article_title": "Bill Cosby's Wife Fiercely Defends Husband, Blasts Media Coverage", 
     "author": {
@@ -4621,7 +4621,7 @@
   }, 
   {
     "url": "/johanabhuiyan/here-is-where-uber-and-lyft-are-facing-regulation-battles-in", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 7, 
     "article_title": "Here Is Where Uber And Lyft Are Facing Regulation Battles In The United States", 
     "author": {
@@ -4631,7 +4631,7 @@
   }, 
   {
     "url": "/evanmcsan/friendly-fire-in-the-war-on-women", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 3, 
     "article_title": "Democratic War On Women Becomes A Friendly Fire Zone", 
     "author": {
@@ -4641,7 +4641,7 @@
   }, 
   {
     "url": "/jasonwells/congress-funds-earthquake-early-warning-system-in-california", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 0, 
     "article_title": "Congress Funds Earthquake Early Warning System In California", 
     "author": {
@@ -4651,7 +4651,7 @@
   }, 
   {
     "url": "/adolfoflores/report-federal-mexican-authorities-were-involved-in-disappea", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 39, 
     "article_title": "Report: Federal Mexican Authorities Were Involved In Disappearance, Killing Of 43 Students", 
     "author": {
@@ -4661,7 +4661,7 @@
   }, 
   {
     "url": "/davidmack/san-jose-police-officer-reviewed-for-twitter-threat", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 118, 
     "article_title": "San Jose Cop Placed On Administrative Leave After His Threatening Tweet To Protesters", 
     "author": {
@@ -4671,7 +4671,7 @@
   }, 
   {
     "url": "/chrisgeidner/despite-administration-silence-advocates-expect-movement-on", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "Despite Administration Silence, Advocates Expect Movement On Transgender Military Service", 
     "author": {
@@ -4681,7 +4681,7 @@
   }, 
   {
     "url": "/hayesbrown/these-isis-parody-videos-will-renew-your-faith-in-comedy", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 35, 
     "article_title": "These ISIS Parody Videos Will Renew Your Faith In Comedy", 
     "author": {
@@ -4691,7 +4691,7 @@
   }, 
   {
     "url": "/mikehayes/tamir-rice-mom-interview", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 12, 
     "article_title": "Tamir Rice's Mother Says She Has Not Heard From Police Since Her Son Was Killed", 
     "author": {
@@ -4701,7 +4701,7 @@
   }, 
   {
     "url": "/miriamelder/21-ways-russians-are-dealing-with-the-collapse-of-the-ruble", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 33, 
     "article_title": "21 Ways Russians Are Dealing With The Collapse Of The Ruble", 
     "author": {
@@ -4711,7 +4711,7 @@
   }, 
   {
     "url": "/dominicholden/80-members-of-congress-urge-repealing-ban-on-gay-man-donatin", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 7, 
     "article_title": "80 Members Of Congress Urge Repealing Ban On Gay Men Donating Blood", 
     "author": {
@@ -4721,7 +4721,7 @@
   }, 
   {
     "url": "/emilyorley/the-selma-cast-wore-i-cant-breathe-t-shirts-to-their-premier", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 34, 
     "article_title": "The \"Selma\" Cast Wore \"I Can't Breathe\" T-Shirts To Their Premiere", 
     "author": {
@@ -4731,7 +4731,7 @@
   }, 
   {
     "url": "/alanwhite/theannualchristmasfeelscontestrageson", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 118, 
     "article_title": "Apple's New Christmas Ad Will Turn You Into A Puddle Of Mush", 
     "author": {
@@ -4741,7 +4741,7 @@
   }, 
   {
     "url": "/mattlynley/adam-dangelo-on-quora-and-the-future-of-the-internet", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 2, 
     "article_title": "Adam D'Angelo On Quora And The Future Of The Internet", 
     "author": {
@@ -4751,7 +4751,7 @@
   }, 
   {
     "url": "/tasneemnashrulla/at-least-five-dead-as-gunman-goes-on-rampage-in-pennsylvania", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 94, 
     "article_title": "Night Of \"Horrific Tragedy\": Pennsylvania Rampage That Left 6 Family Members Dead", 
     "author": {
@@ -4761,7 +4761,7 @@
   }, 
   {
     "url": "/maryanngeorgantopoulos/alleged-sydney-gunman-man-haron-monis-has-history-of-crimina", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 19, 
     "article_title": "Sydney Gunman Man Haron Monis Had History Of Criminal Charges", 
     "author": {
@@ -4771,7 +4771,7 @@
   }, 
   {
     "url": "/hayesbrown/theres-too-much-oil-in-them-thar-hills", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 37, 
     "article_title": "This Is Why The Price Of Oil Is Crashing", 
     "author": {
@@ -4781,7 +4781,7 @@
   }, 
   {
     "url": "/mattlynley/quora-and-the-quest-to-answer-every-question", 
-    "clickbait": true, 
+    "clickbait": 1, 
     "response_count": 6, 
     "article_title": "Quora And The Quest To Answer Every Question", 
     "author": {
