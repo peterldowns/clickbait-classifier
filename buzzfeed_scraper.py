@@ -25,7 +25,7 @@ def parse_buzzfeed_item(html_element):
         'name': author_name,
         'url': author_url,
       },
-      'title': article_title,
+      'article_title': article_title,
       'url': article_url,
       'response_count': response_count,
       'clickbait': True,
