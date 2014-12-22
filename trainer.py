@@ -1,8 +1,17 @@
 #!/usr/bin/env python
 # coding: utf-8
-# http://nbviewer.ipython.org/gist/rjweiss/7158866
+
+# Sources for machine learning information / examples:
+#   http://nbviewer.ipython.org/gist/rjweiss/7158866
+#   http://scikit-learn.org/stable/modules/feature_extraction.html
+#   http://www.datarobot.com/blog/classification-with-scikit-learn/
+#   http://scikit-learn.org/stable/auto_examples/document_classification_20newsgroups.html
+#   http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
+
 import json
 import numpy
+import signal
+import sys
 from operator import itemgetter
 from random import shuffle
 from sklearn import metrics
@@ -12,12 +21,14 @@ from sklearn.naive_bayes import MultinomialNB
 
 dataset = []
 with open('nytimes.json', 'rb') as nytimes_f:
-  dataset.extend(json.load(nytimes_f))
+  nyt_dataset = json.load(nytimes_f)
 with open('buzzfeed-crawl.json', 'rb') as buzzfeed_f:
-  dataset.extend(json.load(buzzfeed_f))
-shuffle(dataset)
+  buzzfeed_dataset = json.load(buzzfeed_f)
+dataset.extend(nyt_dataset)
+dataset.extend(buzzfeed_dataset)
 
 training_set_size = int(round(len(dataset) * 0.90))
+shuffle(dataset)
 training_data = dataset[0:training_set_size]
 testing_data = dataset[(training_set_size + 1):]
 
@@ -46,18 +57,13 @@ nb_classifier.fit(X_train, Y_train)
 X_test = vectorizer.transform(X_test)
 Y_predicted = nb_classifier.predict(X_test)
 
-print "MODEL: Multinomial Naive Bayes\n"
-print 'The precision for this classifier is ' + str(metrics.precision_score(Y_test, Y_predicted))
-print 'The recall for this classifier is ' + str(metrics.recall_score(Y_test, Y_predicted))
-print 'The f1 for this classifier is ' + str(metrics.f1_score(Y_test, Y_predicted))
-print 'The accuracy for this classifier is ' + str(metrics.accuracy_score(Y_test, Y_predicted))
-
-print '\nHere is the classification report:'
+print 'Classification report:'
 print metrics.classification_report(Y_test, Y_predicted)
+print ''
 
-print '\nHere is the confusion matrix:'
-print metrics.confusion_matrix(Y_test, Y_predicted, labels=[0, 1])
-
+# Set up a loop to test article titles against the trained classifier.
+signal.signal(signal.SIGINT,
+              lambda signal, frame: sys.stdout.write('\n') or sys.exit(0))
 while 1:
   title = raw_input('\nArticle title: ').strip()
   probabilities = nb_classifier.predict_proba(
