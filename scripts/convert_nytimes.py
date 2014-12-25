@@ -28,5 +28,5 @@ def load_nyt_csv(filename):
 
 
 if __name__ == '__main__':
-  nyt_data = load_nyt_csv('rtexttools-nytimes.csv')
+  nyt_data = load_nyt_csv('./data/rtexttools-nytimes.csv')
   sys.stdout.write(json.dumps(nyt_data, indent=2))
