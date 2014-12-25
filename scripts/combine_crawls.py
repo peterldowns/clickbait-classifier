@@ -11,5 +11,4 @@ def combine_data(data_filenames):
   for name in data_filenames:
     with open(name, 'rb') as f:
       data.extend(json.load(f))
-  data_dict = dict(izip(imap(itemgetter('article_title'), data), data))
-  return data_dict.values()
+  return dict(izip(imap(itemgetter('article_url'), data), data)).values()
