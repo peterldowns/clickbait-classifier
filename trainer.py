@@ -9,7 +9,6 @@
 #   http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
 
 # TODO(peter):
-#   - Use NLTK to map (sentence of words) -> (list of parts of speech)
 #   - Store trained state
 #   - Flask frontend / API
 #   - Incremental training tool (show a title to N people, get consensus on
@@ -35,7 +34,7 @@ with open('./data/buzzfeed.json', 'rb') as buzzfeed_f:
 with open('./data/clickhole.json', 'rb') as clickhole_f:
   clickhole_dataset = json.load(clickhole_f)
 
-training_proportion = 0.75
+training_proportion = 0.8
 
 nyt_cutoff = int(round(len(nyt_dataset) * training_proportion))
 training_nyt = nyt_dataset[0:nyt_cutoff]
@@ -107,7 +106,7 @@ def show_most_informative_features(vectorizer, clf, n=20):
     for (coef_1, fn_1), (coef_2, fn_2) in top:
         print "\t%.4f\t%-15s\t\t%.4f\t%-15s" % (coef_1, fn_1, coef_2, fn_2)
 
-print show_most_informative_features(vectorizer, nb_classifier, 50)
+print show_most_informative_features(vectorizer, nb_classifier, 20)
 
 # Set up a loop to test article titles against the trained classifier.
 signal.signal(signal.SIGINT,
