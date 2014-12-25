@@ -33,6 +33,10 @@ with open('./data/buzzfeed.json', 'rb') as buzzfeed_f:
 with open('./data/clickhole.json', 'rb') as clickhole_f:
   clickhole_dataset = json.load(clickhole_f)
 
+
+# All of these complicated splits are used to ensure that there are both types
+# of article titles (clickbait and news) in the training set.
+
 training_proportion = 0.8
 
 nyt_cutoff = int(round(len(nyt_dataset) * training_proportion))
@@ -59,7 +63,7 @@ def title_cleaner(title):
   return title
   return ' '.join(
       map(itemgetter(1), # Parts of speech
-      nltk.pos_tag(nltk.word_tokenize(title.lower()))))
+          nltk.pos_tag(nltk.word_tokenize(title.lower()))))
 
 def category_cleaner(category):
   return 'clickbait' if category else 'news'
