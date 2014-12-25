@@ -1,8 +1,8 @@
 # Clickbait Classifier
 
 This is a very naïve attempt at classifying article titles into one of two
-groups: "clickbait" (a lá [Buzzfeed](http://www.buzzfeed.com/) and
-[Clickhole](http://www.clickhole.com/)) or "news" (a lá [The New York
+groups: "clickbait" (à la [Buzzfeed](http://www.buzzfeed.com/) and
+[Clickhole](http://www.clickhole.com/)) or "news" (à la [The New York
 Times](http://www.nytimes.com/)). I was curious if this could be done
 accurately; I can't think of a good definition for "clickbait" but [I know it
 when I see it](http://en.wikipedia.org/wiki/I_know_it_when_I_see_it).
