@@ -16,7 +16,6 @@
 
 import json
 import numpy
-import signal
 import sys
 import nltk
 from itertools import imap
@@ -106,14 +105,10 @@ def show_most_informative_features(vectorizer, clf, n=20):
     for (coef_1, fn_1), (coef_2, fn_2) in top:
         print "\t%.4f\t%-15s\t\t%.4f\t%-15s" % (coef_1, fn_1, coef_2, fn_2)
 
-print show_most_informative_features(vectorizer, nb_classifier, 20)
+show_most_informative_features(vectorizer, nb_classifier, 20)
 
-# Set up a loop to test article titles against the trained classifier.
-signal.signal(signal.SIGINT,
-              lambda signal, frame: sys.stdout.write('\n') or sys.exit(0))
-while 1:
-  title = raw_input('\nArticle title: ').strip()
+def classify(title):
   predictions = nb_classifier.predict_proba(
       vectorizer.transform(numpy.array([title_cleaner(title)])))[0]
   probabilities = dict(zip(nb_classifier.classes_, predictions))
-  print '{0:.2f}% chance of clickbait'.format(probabilities['clickbait'] * 100)
+  return probabilities
