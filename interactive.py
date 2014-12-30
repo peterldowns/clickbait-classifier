@@ -14,7 +14,10 @@ signal.signal(signal.SIGINT,
               lambda signal, frame: sys.stdout.write('\n') or sys.exit(0))
 
 while True:
-  title = raw_input('\nArticle title: ').strip().decode('utf-8')
+  try:
+    title = raw_input('\nArticle title: ').strip().decode('utf-8')
+  except:
+    break
   probabilities = classifier.classify(title)
   print '({0:.2f}% clickbait, {1:.2f}% news) -> {2}'.format(
       probabilities['clickbait'] * 100,
