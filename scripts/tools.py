@@ -6,9 +6,12 @@ from itertools import imap
 from itertools import izip
 from operator import itemgetter
 
-def combine_data(data_filenames):
+def unique_articles(data):
+  return dict(izip(imap(itemgetter('article_title'), data), data)).values()
+
+def merge_files(data_filenames):
   data = []
   for name in data_filenames:
     with open(name, 'rb') as f:
       data.extend(json.load(f))
-  return dict(izip(imap(itemgetter('article_url'), data), data)).values()
+  return unique_articles(data)
