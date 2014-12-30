@@ -14,6 +14,7 @@
 #   - Incremental training tool (show a title to N people, get consensus on
 #     'is-clickbait')
 
+import glob
 import json
 import numpy
 import sys
@@ -26,62 +27,49 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 
 
-with open('./data/nytimes.json', 'rb') as nytimes_f:
-  nyt_dataset = json.load(nytimes_f)
-with open('./data/buzzfeed.json', 'rb') as buzzfeed_f:
-  buzzfeed_dataset = json.load(buzzfeed_f)
-with open('./data/clickhole.json', 'rb') as clickhole_f:
-  clickhole_dataset = json.load(clickhole_f)
+# Make this `True` to train on parts of speech instead of words.
+TRAIN_ON_PARTS_OF_SPEECH = False
+if TRAIN_ON_PARTS_OF_SPEECH:
+  data_files = glob.glob('./data/pos/*.json')
+  def title_cleaner(title):
+    import nltk
+    return ' '.join(
+        map(itemgetter(1), # Parts of speech
+            nltk.pos_tag(nltk.word_tokenize(title.lower()))))
+else:
+  data_files = glob.glob('./data/*.json')
+  def title_cleaner(title):
+    return title
 
 
 # All of these complicated splits are used to ensure that there are both types
 # of article titles (clickbait and news) in the training set.
-
 training_proportion = 0.8
-
-nyt_cutoff = int(round(len(nyt_dataset) * training_proportion))
-training_nyt = nyt_dataset[0:nyt_cutoff]
-testing_nyt = nyt_dataset[nyt_cutoff:]
-
-buzzfeed_cutoff = int(round(len(buzzfeed_dataset) * training_proportion))
-training_buzzfeed = buzzfeed_dataset[0:buzzfeed_cutoff]
-testing_buzzfeed = buzzfeed_dataset[buzzfeed_cutoff:]
-
-clickhole_cutoff = int(round(len(clickhole_dataset) * training_proportion))
-training_clickhole = clickhole_dataset[0:clickhole_cutoff]
-testing_clickhole = clickhole_dataset[clickhole_cutoff:]
-
-training_data = training_nyt + training_buzzfeed + training_clickhole
-testing_data = testing_nyt + testing_buzzfeed + testing_clickhole
-
-assert (len(training_data) + len(testing_data)) == (
-        len(nyt_dataset) + len(buzzfeed_dataset) + len(clickhole_dataset))
-
-def title_cleaner(title):
-  # Comment out the following line to train on parts of speech instead of the
-  # actual words.
-  return title
-  return ' '.join(
-      map(itemgetter(1), # Parts of speech
-          nltk.pos_tag(nltk.word_tokenize(title.lower()))))
+training_data = []
+testing_data = []
+for filename in data_files:
+  with open(filename, 'rb') as in_f:
+    dataset = json.load(in_f)
+    cutoff = int(round(len(dataset) * training_proportion))
+    training_data.extend(dataset[0:cutoff])
+    testing_data.extend(dataset[cutoff:])
+    print 'Loaded %d headlines from %s' % (len(dataset), filename)
 
 def category_cleaner(category):
   return 'clickbait' if category else 'news'
 
-article_titles = map(title_cleaner,
-                     imap(itemgetter('article_title'), training_data))
+article_titles = map(itemgetter('article_title'), training_data)
 clickbait_values = map(category_cleaner,
                        imap(itemgetter('clickbait'), training_data))
-X_train = numpy.array(article_titles)
-Y_train = numpy.array(clickbait_values)
-assert len(X_train) == len(Y_train) > 0
-
-test_article_titles = map(title_cleaner,
-                          imap(itemgetter('article_title'), testing_data))
+test_article_titles = map(itemgetter('article_title'), testing_data)
 test_clickbait_values = map(category_cleaner,
                             imap(itemgetter('clickbait'), testing_data))
+
+X_train = numpy.array(article_titles)
+Y_train = numpy.array(clickbait_values)
 X_test = numpy.array(test_article_titles)
 Y_test = numpy.array(test_clickbait_values)
+assert len(X_train) == len(Y_train) > 0
 assert len(X_test) == len(Y_test) > 0
 
 vectorizer = TfidfVectorizer(ngram_range=(1, 3),
