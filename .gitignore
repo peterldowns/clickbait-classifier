@@ -1,2 +1,20 @@
+# Python compiled objects
 *.pyc
 .DS_Store
+__pycache__/
+
+# we use this to store modules and caches
+.toolchain/
+
+# When you run `nix-build`, it symlinks the outputs at ./result -> <nix store path>
+result
+
+# When you run `just build`, it stores the output in bin/
+bin/
+
+# The direnv use_flake integration seems to put content here
+.direnv/
+
+# Others
+tmp/
+venv/

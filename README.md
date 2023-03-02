@@ -1,60 +1,70 @@
 # Clickbait Classifier
 
-This is a very naïve attempt at classifying article titles into one of two
-groups: "clickbait" (à la [Buzzfeed](http://www.buzzfeed.com/) and
-[Clickhole](http://www.clickhole.com/)) or "news" (à la [The New York
+This is a very simple attempt at classifying article titles into one of two
+groups: "clickbait" (a la [Buzzfeed](http://www.buzzfeed.com/) and
+[Clickhole](http://www.clickhole.com/)) or "news" (a la [The New York
 Times](http://www.nytimes.com/)). I was curious if this could be done
 accurately; I can't think of a good definition for "clickbait" but [I know it
 when I see it](http://en.wikipedia.org/wiki/I_know_it_when_I_see_it).
 
-Eventually, I'd like to add a simple REST API and build a chrome extension that
-automatically deletes clickbait from my browser as I surf the internet. I truly
-cannot stand Buzzfeed.
+## Setup
 
-### Setup / Installation
-
-Theoretically, the only command you need to run is:
+### poetry
+If you have poetry installed, you shouldn't have to do a thing. You can
+install all necessary dependencies and run the demos with `poetry run`:
 
 ```shell
-clickbait-classifier/ $ pip install -r requirements.txt
+# train the classifier and show the top features
+poetry run python -m clickbait_classifier.classifier
+# enter an interactive classifier loop
+poetry run python -m clickbait_classifier.interactive
 ```
 
-Of course, you may want to set up a virtualenv:
+### pip
+If you don't use poetry, you can create a virtualenv, install the dependencies, and then run
+the code with `pip`:
 
 ```shell
-clickbait-classifier/ $ virtualenv env
-clickbait-classifier/ $ . env/bin/activate
-(env)clickbait-classifier/ $ pip install -r requirements.txt
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python ./clickbait_classifier/classifier.py
+python ./clickbait_classifier/interactive.py
 ```
 
-The classifier's dependencies can be found in `requirements.txt`. I'd like to
-say that it's a simple `pip install` but depending on your version of Python
-and your OS, `scikit-learn` and `lxml` may give you some issues. Be warned:
-these issues may take some time to resolve. I think it took me about 3 hours to
-get everything set up and I ended up having to start using a new package
-manager ([brew](http://brew.sh/)) and a new Python install.
+### nix
+If you have nix, you can use `nix-shell` or `nix develop` or `direnv` or `lorri`
+to get all the necessary dependencies, including Poetry.
 
-### Usage
+If you use flakes, you can run the demos without installing anything:
+
+```shell
+# train the classifier and show the top features
+nix run github:peterldowns/clickbait-classifier#classifier
+# enter an interactive classifier loop
+nix run github:peterldowns/clickbait-classifier#interactive
+
+## Usage
 
 The code is pretty messy, but the general idea is that there is some article
 data in the `data/` directory, and `classifier.py` uses this for training. You can download more data from Buzzfeed and Clickhole using the tools in `scripts/`.
 
 ```shell
-clickbait-classifier/ $ ./scripts/scrape_buzzfeed.py > data/buzzfeed2.json  
-clickbait-classifier/ $ ./scripts/scrape_clickhole.py > data/clickhole2.json  
+python ./scripts/scrape_buzzfeed.py > data/buzzfeed2.json  
+python ./scripts/scrape_clickhole.py > data/clickhole2.json  
 ```
 
 If you feel like testing a few article titles, you can get a simple testing loop like so:
 
-```shell
-clickbait-classifier/ $ ./interactive.py
+```console
+python ./clickbait_classifier/interactive.py
 ```
 
 This will load the classifier, train it, and then present you with a simple
 loop where you can paste in article titles and see the results. You can quit
 using c-C. For example:
 
-```shell
+```console
 clickbait-classifier/ $ ./interactive.py
 Loading classifier (may take time to train.)
 Classification report:

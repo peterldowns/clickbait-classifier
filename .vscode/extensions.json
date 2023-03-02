@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+      "ms-python.python",
+      "charliermarsh.ruff",
+      "jnoortheen.nix-ide",
+      "skellock.just",
+      "timonwong.shellcheck"
+    ]
+}
