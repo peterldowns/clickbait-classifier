@@ -10,17 +10,31 @@
 
 import glob
 import json
-import numpy
-
 from operator import itemgetter
+
+import importlib_resources
+import numpy
 from sklearn import metrics
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 
+
+# Helper to load the json files in the data directory when running locally (in
+# development) or from the package when it's built and is running as a module.
+def load_data_paths(directory: str):
+    base = importlib_resources.files(directory.replace("/", "."))
+    with importlib_resources.as_file(base) as root_dir:
+        return [
+            base.joinpath(fname)
+            for fname in
+            glob.glob("*.json", root_dir=root_dir)
+        ]
+
+
 # Make this `True` to train on parts of speech instead of words.
 TRAIN_ON_PARTS_OF_SPEECH = False
 if TRAIN_ON_PARTS_OF_SPEECH:
-    data_files = glob.glob("./data/pos/*.json")
+    data_files = load_data_paths("clickbait_classifier.data.pos")
 
     def title_cleaner(title):
         import nltk
@@ -33,7 +47,7 @@ if TRAIN_ON_PARTS_OF_SPEECH:
         )
 
 else:
-    data_files = glob.glob("./data/*.json")
+    data_files = load_data_paths("clickbait_classifier.data")
 
     def title_cleaner(title):
         return title

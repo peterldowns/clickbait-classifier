@@ -28,8 +28,8 @@ the code with `pip`:
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-python ./clickbait_classifier/classifier.py
-python ./clickbait_classifier/interactive.py
+python -m clickbait_classifier.classifier
+python -m clickbait_classifier.interactive
 ```
 
 ### nix
@@ -43,6 +43,7 @@ If you use flakes, you can run the demos without installing anything:
 nix run github:peterldowns/clickbait-classifier#classifier
 # enter an interactive classifier loop
 nix run github:peterldowns/clickbait-classifier#interactive
+```
 
 ## Usage
 
@@ -50,8 +51,8 @@ The code is pretty messy, but the general idea is that there is some article
 data in the `data/` directory, and `classifier.py` uses this for training. You can download more data from Buzzfeed and Clickhole using the tools in `scripts/`.
 
 ```shell
-python ./scripts/scrape_buzzfeed.py > data/buzzfeed2.json  
-python ./scripts/scrape_clickhole.py > data/clickhole2.json  
+python ./scripts/scrape_buzzfeed.py > ./clickbait_classifier/data/buzzfeed2.json  
+python ./scripts/scrape_clickhole.py > ./clickbait_classifier/data/clickhole2.json  
 ```
 
 If you feel like testing a few article titles, you can get a simple testing loop like so:
